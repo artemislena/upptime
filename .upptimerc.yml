@@ -1,6 +1,6 @@
 # Change these first
 owner: artemislena # Your GitHub organization or username, where this repository lives
-repo: artemislena # The name of this repository
+repo: upptime # The name of this repository
 
 sites:
   - name: Main site
