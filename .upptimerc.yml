@@ -1,31 +1,57 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: artemislena # Your GitHub organization or username, where this repository lives
+repo: artemislena # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Main site
+    url: https://artemislena.eu
+  - name: GTRR
+    url: https://gtrr.artemislena.eu
+  - name: BorgBackup
+    check: "tcp-ping"
+    url: artemislena.eu
+    port: 22
+  - name: Matrix (client)
+    url: https://matrix.artemislena.eu
+  - name: Matrix (server)
+    url: https://matrix.artemislena.eu:8448/_matrix/static
+  - name: Whoareyou
+    url: https://artemislena.eu/services/whoareyou.html
+  - name: Plik
+    url: https://plik.artemislena.eu:8443
+  - name: Libreddit
+    url: https://reddit.artemislena.eu
+  - name: Invidious
+    url: https://yt.artemislena.eu
+  - name: Nitter
+    url: https://tw.artemislena.eu
+  - name: Rimgo
+    url: https://imgur.artemislena.eu
+  - name: CryptPad
+    url: https://pad.artemislena.eu
+  - name: Ntfy
+    url: https://ntfy.artemislena.eu
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: upptime.artemislena.eu
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Status page for [artemislena.eu](https://artemislena.eu)"
+  introMessage: "This monitors the uptime for services hosted on `artemislena.eu`. Hosted on GitHub, not our own servers."
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
+    - title: artemislena.eu
+      href: https://artemislena.eu
+    - title: GitHub repo
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+workflowSchedule:
+    uptime: "*/30 * * * *" # Don't want to use too much resources; checking every so often is probably enough
+
+userAgent: artemislena
