@@ -52,6 +52,6 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 workflowSchedule:
-    uptime: "*/30 * * * *" # Don't want to use too much resources; checking every so often is probably enough
+    uptime: "*/10 * * * *"
 
 userAgent: artemislena
