@@ -10,7 +10,7 @@ sites:
   - name: BorgBackup
     check: "tcp-ping"
     url: borg.artemislena.eu
-    port: 22
+    port: 2222
   - name: Matrix (client)
     url: https://matrix.artemislena.eu
   - name: Matrix (server)
