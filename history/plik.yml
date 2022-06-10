@@ -1,7 +1,7 @@
 url: https://plik.artemislena.eu
-status: up
-code: 200
-responseTime: 537
-lastUpdated: 2022-06-09T23:09:01.464Z
+status: down
+code: 502
+responseTime: 3437
+lastUpdated: 2022-06-10T14:20:48.348Z
 startTime: Wed Jun 01 2022 20:43:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
