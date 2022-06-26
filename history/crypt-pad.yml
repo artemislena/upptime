@@ -1,7 +1,7 @@
 url: https://pad.artemislena.eu
-status: up
-code: 200
-responseTime: 613
-lastUpdated: 2022-06-25T23:08:10.947Z
+status: down
+code: 502
+responseTime: 3473
+lastUpdated: 2022-06-26T11:48:16.324Z
 startTime: Wed Jun 01 2022 20:43:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
