@@ -15,6 +15,14 @@ sites:
     url: https://matrix.artemislena.eu
   - name: Matrix (server)
     url: https://matrix.artemislena.eu:8448/_matrix/static
+  - name: Matrix (TURN)
+    check: "tcp-ping"
+    url: matrix-turn.artemislena.eu
+    port: 3478
+  - name: Matrix (TURNS)
+    check: "tcp-ping"
+    url: matrix-turn.artemislena.eu
+    port: 5349
   - name: Whoareyou
     url: https://artemislena.eu/services/whoareyou.html
   - name: Plik
