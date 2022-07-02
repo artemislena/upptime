@@ -31,6 +31,12 @@ sites:
     url: https://pad.artemislena.eu
   - name: Ntfy
     url: https://ntfy.artemislena.eu
+  - name: Mailcow (web)
+    url: https://mail.artemislena.eu
+  - name: Mailcow (SMTP)
+    check: "tcp-ping"
+    url: mail.artemislena.eu
+    port: 25
 
 
 status-website:
