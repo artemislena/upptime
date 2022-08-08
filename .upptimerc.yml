@@ -41,9 +41,6 @@ sites:
     check: "tcp-ping"
     url: croc.artemislena.eu
     port: 9009
-  - name: Jitsi
-    url: https://jitsi.artemislena.eu
-
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
