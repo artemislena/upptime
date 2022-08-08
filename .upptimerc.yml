@@ -37,6 +37,11 @@ sites:
     check: "tcp-ping"
     url: mail.artemislena.eu
     port: 25
+  - name: Croc
+    check: "tcp-ping"
+    url: croc.artemislena.eu
+  - name: Jitsi
+    url: https://jitsi.artemislena.eu
 
 
 status-website:
