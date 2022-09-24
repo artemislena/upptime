@@ -1,7 +1,7 @@
 url: https://tw.artemislena.eu
-status: up
-code: 200
-responseTime: 461
-lastUpdated: 2022-09-24T07:29:39.574Z
+status: down
+code: 502
+responseTime: 3434
+lastUpdated: 2022-09-24T08:20:10.296Z
 startTime: Wed Jun 01 2022 20:43:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
