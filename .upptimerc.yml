@@ -42,7 +42,7 @@ sites:
     url: croc.artemislena.eu
     port: 9009
   - name: BreezeWiki
-    url : https://bw.artemislena.eu
+    url: https://bw.artemislena.eu
   - name: Libreddit
     url: https://lr.artemislena.eu
 
