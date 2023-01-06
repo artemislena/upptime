@@ -1,7 +1,7 @@
 url: https://lr.artemislena.eu
-status: up
-code: 200
-responseTime: 2026
-lastUpdated: 2023-01-05T23:09:20.727Z
+status: down
+code: 502
+responseTime: 3476
+lastUpdated: 2023-01-06T16:46:50.958Z
 startTime: Sun Nov 13 2022 00:03:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
