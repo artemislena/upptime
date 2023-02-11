@@ -1,7 +1,7 @@
 url: https://teddit.artemislena.eu
-status: down
-code: 502
-responseTime: 3573
-lastUpdated: 2023-02-11T21:44:31.456Z
+status: up
+code: 200
+responseTime: 584
+lastUpdated: 2023-02-11T22:37:28.981Z
 startTime: Mon Sep 05 2022 18:25:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
