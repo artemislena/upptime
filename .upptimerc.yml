@@ -17,8 +17,8 @@ sites:
     url: https://matrix.artemislena.eu:8448/_matrix/static
   - name: Whoareyou
     url: https://artemislena.eu/services/whoareyou.html
-  - name: Plik
-    url: https://plik.artemislena.eu
+  - name: Send
+    url: https://send.artemislena.eu
   - name: Teddit
     url: https://teddit.artemislena.eu
   - name: Invidious
