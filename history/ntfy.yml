@@ -1,7 +1,7 @@
 url: https://ntfy.artemislena.eu
-status: up
-code: 200
-responseTime: 591
-lastUpdated: 2023-04-16T23:07:25.000Z
+status: down
+code: 502
+responseTime: 3578
+lastUpdated: 2023-04-17T07:13:07.530Z
 startTime: Wed Jun 01 2022 20:43:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
