@@ -112,7 +112,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "borg-backup",
     "status": "up",
-    "uptime": "98.75%",
+    "uptime": "98.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -121,7 +121,7 @@
     "timeDay": 178,
     "timeWeek": 206,
     "timeMonth": 186,
-    "timeYear": 169,
+    "timeYear": 170,
     "dailyMinutesDown": {
       "2023-03-12": 35,
       "2023-03-06": 18,
@@ -149,8 +149,7 @@
       "2022-09-07": 91,
       "2022-09-06": 106,
       "2022-08-22": 70,
-      "2022-08-01": 174,
-      "2022-06-16": 5
+      "2022-08-01": 174
     }
   },
   {
@@ -168,7 +167,7 @@
     "timeDay": 970,
     "timeWeek": 1148,
     "timeMonth": 1132,
-    "timeYear": 1368,
+    "timeYear": 1369,
     "dailyMinutesDown": {
       "2023-04-26": 19,
       "2023-04-21": 19,
@@ -235,7 +234,7 @@
     "timeDay": 653,
     "timeWeek": 695,
     "timeMonth": 635,
-    "timeYear": 816,
+    "timeYear": 817,
     "dailyMinutesDown": {
       "2023-04-26": 19,
       "2023-04-21": 19,
@@ -521,9 +520,9 @@
     "slug": "nitter",
     "status": "up",
     "uptime": "98.11%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "98.19%",
     "time": 796,
     "timeDay": 424,
@@ -531,7 +530,6 @@
     "timeMonth": 572,
     "timeYear": 798,
     "dailyMinutesDown": {
-      "2023-06-15": 13,
       "2023-06-13": 27,
       "2023-06-06": 18,
       "2023-06-04": 18,
@@ -619,10 +617,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/imgur.artemislena.eu.ico",
     "slug": "rimgo",
     "status": "up",
-    "uptime": "98.34%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.77%",
+    "uptime": "98.35%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "98.41%",
     "time": 877,
     "timeDay": 1129,
@@ -630,7 +628,6 @@
     "timeMonth": 634,
     "timeYear": 878,
     "dailyMinutesDown": {
-      "2023-06-15": 13,
       "2023-06-13": 27,
       "2023-06-06": 18,
       "2023-06-04": 18,
@@ -713,9 +710,9 @@
     "slug": "crypt-pad",
     "status": "up",
     "uptime": "96.61%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "96.55%",
     "time": 819,
     "timeDay": 506,
@@ -723,7 +720,6 @@
     "timeMonth": 586,
     "timeYear": 820,
     "dailyMinutesDown": {
-      "2023-06-15": 12,
       "2023-06-13": 27,
       "2023-06-06": 17,
       "2023-06-04": 18,
@@ -818,9 +814,9 @@
     "slug": "ntfy",
     "status": "up",
     "uptime": "98.75%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "98.82%",
     "time": 799,
     "timeDay": 514,
@@ -828,7 +824,6 @@
     "timeMonth": 614,
     "timeYear": 798,
     "dailyMinutesDown": {
-      "2023-06-15": 12,
       "2023-06-13": 27,
       "2023-06-06": 17,
       "2023-06-04": 18,
@@ -1185,8 +1180,7 @@
       "2022-07-18": 22,
       "2022-07-03": 16,
       "2022-07-01": 87,
-      "2022-06-27": 35,
-      "2022-06-16": 19
+      "2022-06-27": 35
     }
   },
   {
