@@ -589,7 +589,7 @@
     "status": "up",
     "uptime": "97.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.49%",
+    "uptimeWeek": "89.03%",
     "uptimeMonth": "92.35%",
     "uptimeYear": "97.54%",
     "time": 857,
@@ -1087,18 +1087,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lr.artemislena.eu.ico",
     "slug": "libreddit",
     "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "82.68%",
-    "uptimeWeek": "89.00%",
-    "uptimeMonth": "93.45%",
-    "uptimeYear": "98.82%",
+    "uptime": "98.78%",
+    "uptimeDay": "83.39%",
+    "uptimeWeek": "89.10%",
+    "uptimeMonth": "93.47%",
+    "uptimeYear": "98.78%",
     "time": 2119,
     "timeDay": 1784,
     "timeWeek": 2329,
     "timeMonth": 1786,
     "timeYear": 2022,
     "dailyMinutesDown": {
-      "2023-07-28": 249,
+      "2023-07-28": 239,
       "2023-07-27": 101,
       "2023-07-26": 174,
       "2023-07-25": 367,
@@ -1139,7 +1139,8 @@
       "2022-12-24": 55,
       "2022-12-23": 4,
       "2022-12-22": 306,
-      "2022-12-21": 119
+      "2022-12-21": 119,
+      "2022-12-20": 167
     }
   },
   {
