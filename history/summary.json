@@ -497,7 +497,7 @@
     "time": 786,
     "timeDay": 462,
     "timeWeek": 515,
-    "timeMonth": 646,
+    "timeMonth": 647,
     "timeYear": 780,
     "dailyMinutesDown": {
       "2023-07-16": 17,
@@ -591,7 +591,7 @@
     "time": 857,
     "timeDay": 482,
     "timeWeek": 466,
-    "timeMonth": 657,
+    "timeMonth": 640,
     "timeYear": 862,
     "dailyMinutesDown": {
       "2023-07-22": 1135,
@@ -688,7 +688,7 @@
     "time": 804,
     "timeDay": 503,
     "timeWeek": 476,
-    "timeMonth": 657,
+    "timeMonth": 654,
     "timeYear": 792,
     "dailyMinutesDown": {
       "2023-07-16": 17,
@@ -787,7 +787,7 @@
     "time": 781,
     "timeDay": 465,
     "timeWeek": 500,
-    "timeMonth": 602,
+    "timeMonth": 603,
     "timeYear": 778,
     "dailyMinutesDown": {
       "2023-07-16": 17,
@@ -1079,19 +1079,19 @@
     "url": "https://lr.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/lr.artemislena.eu.ico",
     "slug": "libreddit",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "84.63%",
+    "status": "down",
+    "uptime": "98.96%",
+    "uptimeDay": "84.58%",
     "uptimeWeek": "87.39%",
     "uptimeMonth": "92.86%",
-    "uptimeYear": "98.95%",
+    "uptimeYear": "98.96%",
     "time": 2108,
-    "timeDay": 1944,
-    "timeWeek": 2358,
-    "timeMonth": 1791,
-    "timeYear": 2012,
+    "timeDay": 1883,
+    "timeWeek": 2366,
+    "timeMonth": 1788,
+    "timeYear": 2010,
     "dailyMinutesDown": {
-      "2023-07-30": 64,
+      "2023-07-30": 65,
       "2023-07-29": 203,
       "2023-07-28": 239,
       "2023-07-27": 101,
@@ -1125,8 +1125,7 @@
       "2023-02-14": 16,
       "2023-02-11": 52,
       "2023-02-06": 56,
-      "2023-02-02": 15,
-      "2023-01-31": 18
+      "2023-02-02": 15
     }
   },
   {
