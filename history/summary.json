@@ -495,7 +495,7 @@
     "time": 787,
     "timeDay": 645,
     "timeWeek": 655,
-    "timeMonth": 686,
+    "timeMonth": 691,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2023-07-16": 17,
@@ -588,7 +588,7 @@
     "time": 857,
     "timeDay": 408,
     "timeWeek": 661,
-    "timeMonth": 643,
+    "timeMonth": 646,
     "timeYear": 860,
     "dailyMinutesDown": {
       "2023-07-22": 1135,
@@ -684,7 +684,7 @@
     "time": 803,
     "timeDay": 556,
     "timeWeek": 470,
-    "timeMonth": 650,
+    "timeMonth": 653,
     "timeYear": 787,
     "dailyMinutesDown": {
       "2023-07-16": 17,
@@ -782,7 +782,7 @@
     "time": 779,
     "timeDay": 537,
     "timeWeek": 482,
-    "timeMonth": 609,
+    "timeMonth": 608,
     "timeYear": 771,
     "dailyMinutesDown": {
       "2023-07-16": 17,
@@ -916,8 +916,7 @@
       "2022-08-12": 43,
       "2022-08-08": 829,
       "2022-08-07": 906,
-      "2022-08-05": 51,
-      "2022-08-04": 23
+      "2022-08-05": 51
     }
   },
   {
@@ -978,8 +977,7 @@
       "2022-08-28": 53,
       "2022-08-26": 17,
       "2022-08-22": 49,
-      "2022-08-05": 50,
-      "2022-08-04": 23
+      "2022-08-05": 50
     }
   },
   {
@@ -1071,15 +1069,15 @@
     "slug": "libreddit",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "81.36%",
+    "uptimeDay": "85.49%",
     "uptimeWeek": "87.18%",
     "uptimeMonth": "92.01%",
     "uptimeYear": "99.08%",
     "time": 2158,
-    "timeDay": 2898,
+    "timeDay": 2691,
     "timeWeek": 2339,
     "timeMonth": 1968,
-    "timeYear": 2038,
+    "timeYear": 2037,
     "dailyMinutesDown": {
       "2023-08-03": 243,
       "2023-08-02": 124,
