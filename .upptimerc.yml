@@ -44,7 +44,7 @@ sites:
   - name: BreezeWiki
     url: https://bw.artemislena.eu
   - name: Libreddit
-    url: https://lr.artemislena.eu
+    url: https://lr.artemislena.eu/info
   - name: Jitsi
     url: https://jitsi.artemislena.eu
 
