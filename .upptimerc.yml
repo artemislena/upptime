@@ -19,8 +19,6 @@ sites:
     url: https://artemislena.eu/services/whoareyou.html
   - name: Send
     url: https://send.artemislena.eu
-  - name: Teddit
-    url: https://teddit.artemislena.eu
   - name: Invidious
     url: https://yt.artemislena.eu
   - name: Nitter
