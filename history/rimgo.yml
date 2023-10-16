@@ -1,7 +1,7 @@
 url: https://imgur.artemislena.eu
-status: up
-code: 200
-responseTime: 361
-lastUpdated: 2023-10-16T16:54:03.810Z
+status: down
+code: 502
+responseTime: 3372
+lastUpdated: 2023-10-16T17:26:56.553Z
 startTime: 2022-06-01T20:43:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
