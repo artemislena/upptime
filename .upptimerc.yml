@@ -21,8 +21,6 @@ sites:
     url: https://send.artemislena.eu
   - name: Invidious
     url: https://yt.artemislena.eu
-  - name: Nitter
-    url: https://tw.artemislena.eu
   - name: Rimgo
     url: https://imgur.artemislena.eu
   - name: CryptPad
