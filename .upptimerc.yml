@@ -43,6 +43,8 @@ sites:
     url: https://lr.artemislena.eu/info
   - name: Jitsi
     url: https://jitsi.artemislena.eu
+  - name: Proxitok
+    url: https://tok.artemislena.eu
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
