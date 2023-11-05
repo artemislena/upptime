@@ -43,7 +43,7 @@ sites:
     url: https://lr.artemislena.eu/info
   - name: Jitsi
     url: https://jitsi.artemislena.eu
-  - name: Proxitok
+  - name: ProxiTok
     url: https://tok.artemislena.eu
 
 status-website:
