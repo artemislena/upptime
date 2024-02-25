@@ -39,8 +39,8 @@ sites:
     port: 9009
   - name: BreezeWiki
     url: https://bw.artemislena.eu
-  - name: Libreddit
-    url: https://lr.artemislena.eu/info
+  - name: Redlib
+    url: https://red.artemislena.eu/info
   - name: Jitsi
     url: https://jitsi.artemislena.eu
   - name: ProxiTok
