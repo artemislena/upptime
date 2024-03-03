@@ -12,7 +12,7 @@
     "uptimeYear": "99.85%",
     "time": 640,
     "timeDay": 527,
-    "timeWeek": 935,
+    "timeWeek": 1008,
     "timeMonth": 682,
     "timeYear": 666,
     "dailyMinutesDown": {
@@ -44,7 +44,7 @@
     "uptimeYear": "99.86%",
     "time": 700,
     "timeDay": 374,
-    "timeWeek": 1146,
+    "timeWeek": 1232,
     "timeMonth": 740,
     "timeYear": 684,
     "dailyMinutesDown": {
@@ -75,7 +75,7 @@
     "uptimeYear": "99.78%",
     "time": 176,
     "timeDay": 131,
-    "timeWeek": 196,
+    "timeWeek": 203,
     "timeMonth": 157,
     "timeYear": 181,
     "dailyMinutesDown": {
@@ -106,7 +106,7 @@
     "uptimeYear": "99.50%",
     "time": 1398,
     "timeDay": 1088,
-    "timeWeek": 2236,
+    "timeWeek": 2288,
     "timeMonth": 1529,
     "timeYear": 1376,
     "dailyMinutesDown": {
@@ -149,7 +149,7 @@
     "uptimeYear": "99.50%",
     "time": 842,
     "timeDay": 458,
-    "timeWeek": 783,
+    "timeWeek": 638,
     "timeMonth": 731,
     "timeYear": 823,
     "dailyMinutesDown": {
@@ -192,7 +192,7 @@
     "uptimeYear": "99.86%",
     "time": 474,
     "timeDay": 337,
-    "timeWeek": 850,
+    "timeWeek": 917,
     "timeMonth": 593,
     "timeYear": 492,
     "dailyMinutesDown": {
@@ -222,7 +222,7 @@
     "uptimeYear": "99.79%",
     "time": 782,
     "timeDay": 381,
-    "timeWeek": 743,
+    "timeWeek": 759,
     "timeMonth": 639,
     "timeYear": 782,
     "dailyMinutesDown": {
@@ -257,7 +257,7 @@
     "uptimeYear": "99.59%",
     "time": 1490,
     "timeDay": 438,
-    "timeWeek": 1127,
+    "timeWeek": 985,
     "timeMonth": 889,
     "timeYear": 1459,
     "dailyMinutesDown": {
@@ -297,7 +297,7 @@
     "uptimeYear": "98.23%",
     "time": 819,
     "timeDay": 640,
-    "timeWeek": 912,
+    "timeWeek": 909,
     "timeMonth": 708,
     "timeYear": 716,
     "dailyMinutesDown": {
@@ -357,7 +357,7 @@
     "uptimeYear": "99.72%",
     "time": 725,
     "timeDay": 384,
-    "timeWeek": 716,
+    "timeWeek": 760,
     "timeMonth": 563,
     "timeYear": 666,
     "dailyMinutesDown": {
@@ -409,7 +409,7 @@
     "uptimeYear": "99.75%",
     "time": 718,
     "timeDay": 370,
-    "timeWeek": 893,
+    "timeWeek": 889,
     "timeMonth": 591,
     "timeYear": 639,
     "dailyMinutesDown": {
@@ -457,7 +457,7 @@
     "uptimeYear": "99.19%",
     "time": 2734,
     "timeDay": 5664,
-    "timeWeek": 5505,
+    "timeWeek": 5520,
     "timeMonth": 4456,
     "timeYear": 2458,
     "dailyMinutesDown": {
@@ -489,14 +489,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailcow-smtp",
     "status": "up",
-    "uptime": "99.00%",
+    "uptime": "99.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.22%",
     "time": 161,
     "timeDay": 176,
-    "timeWeek": 181,
+    "timeWeek": 185,
     "timeMonth": 158,
     "timeYear": 164,
     "dailyMinutesDown": {
@@ -550,7 +550,7 @@
     "uptimeYear": "99.24%",
     "time": 721,
     "timeDay": 393,
-    "timeWeek": 1339,
+    "timeWeek": 1379,
     "timeMonth": 810,
     "timeYear": 668,
     "dailyMinutesDown": {
@@ -579,18 +579,20 @@
     "url": "https://red.artemislena.eu/info",
     "icon": "https://icons.duckduckgo.com/ip3/red.artemislena.eu.ico",
     "slug": "redlib",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1209,
     "timeDay": 1203,
-    "timeWeek": 1209,
+    "timeWeek": 1308,
     "timeMonth": 1209,
     "timeYear": 1209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-03": 1
+    }
   },
   {
     "name": "Jitsi",
@@ -605,7 +607,7 @@
     "uptimeYear": "99.54%",
     "time": 642,
     "timeDay": 418,
-    "timeWeek": 535,
+    "timeWeek": 543,
     "timeMonth": 527,
     "timeYear": 641,
     "dailyMinutesDown": {
@@ -622,14 +624,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/tok.artemislena.eu.ico",
     "slug": "proxi-tok",
     "status": "up",
-    "uptime": "98.37%",
+    "uptime": "98.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.37%",
+    "uptimeYear": "98.38%",
     "time": 583,
     "timeDay": 431,
-    "timeWeek": 791,
+    "timeWeek": 838,
     "timeMonth": 548,
     "timeYear": 583,
     "dailyMinutesDown": {
