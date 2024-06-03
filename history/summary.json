@@ -236,9 +236,9 @@
     "slug": "send",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "93.85%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "92.78%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.38%",
     "time": 754,
     "timeDay": 546,
@@ -246,7 +246,8 @@
     "timeMonth": 705,
     "timeYear": 761,
     "dailyMinutesDown": {
-      "2024-06-02": 89,
+      "2024-06-02": 102,
+      "2024-06-03": 2,
       "2024-03-27": 613,
       "2024-03-26": 393,
       "2024-03-06": 676,
@@ -309,9 +310,9 @@
     "slug": "rimgo",
     "status": "up",
     "uptime": "98.17%",
-    "uptimeDay": "93.46%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "92.39%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "97.83%",
     "time": 696,
     "timeDay": 487,
@@ -319,7 +320,8 @@
     "timeMonth": 580,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2024-06-02": 95,
+      "2024-06-02": 108,
+      "2024-06-03": 2,
       "2024-03-27": 612,
       "2024-03-26": 392,
       "2024-03-06": 660,
@@ -351,8 +353,7 @@
       "2023-06-17": 1157,
       "2023-06-16": 302,
       "2023-06-13": 27,
-      "2023-06-06": 18,
-      "2023-06-04": 18
+      "2023-06-06": 18
     }
   },
   {
@@ -362,9 +363,9 @@
     "slug": "crypt-pad",
     "status": "up",
     "uptime": "97.99%",
-    "uptimeDay": "93.86%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "92.79%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.31%",
     "time": 642,
     "timeDay": 491,
@@ -372,7 +373,8 @@
     "timeMonth": 666,
     "timeYear": 651,
     "dailyMinutesDown": {
-      "2024-06-02": 89,
+      "2024-06-02": 102,
+      "2024-06-03": 2,
       "2024-04-25": 26,
       "2024-03-27": 612,
       "2024-03-26": 392,
@@ -398,8 +400,7 @@
       "2023-07-06": 34,
       "2023-07-03": 15,
       "2023-06-13": 27,
-      "2023-06-06": 17,
-      "2023-06-04": 18
+      "2023-06-06": 17
     }
   },
   {
@@ -447,8 +448,7 @@
       "2023-07-12": 104,
       "2023-07-06": 34,
       "2023-06-13": 27,
-      "2023-06-06": 17,
-      "2023-06-04": 18
+      "2023-06-06": 17
     }
   },
   {
@@ -547,17 +547,18 @@
     "slug": "breeze-wiki",
     "status": "up",
     "uptime": "98.81%",
-    "uptimeDay": "92.74%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "98.86%",
+    "uptimeDay": "91.67%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "98.85%",
     "time": 640,
     "timeDay": 572,
     "timeWeek": 482,
     "timeMonth": 565,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2024-06-02": 105,
+      "2024-06-02": 118,
+      "2024-06-03": 2,
       "2024-04-24": 39,
       "2024-04-14": 425,
       "2024-03-27": 611,
@@ -576,8 +577,7 @@
       "2023-07-24": 644,
       "2023-07-13": 77,
       "2023-07-12": 103,
-      "2023-07-05": 36,
-      "2023-06-04": 17
+      "2023-07-05": 36
     }
   },
   {
@@ -586,18 +586,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/red.artemislena.eu.ico",
     "slug": "redlib",
     "status": "up",
-    "uptime": "95.56%",
-    "uptimeDay": "91.83%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "95.56%",
+    "uptime": "95.55%",
+    "uptimeDay": "90.76%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "95.55%",
     "time": 701,
     "timeDay": 453,
     "timeWeek": 515,
     "timeMonth": 634,
     "timeYear": 701,
     "dailyMinutesDown": {
-      "2024-06-02": 119,
+      "2024-06-02": 132,
+      "2024-06-03": 2,
       "2024-05-02": 597,
       "2024-05-01": 1440,
       "2024-04-30": 629,
@@ -646,9 +647,9 @@
     "slug": "proxi-tok",
     "status": "up",
     "uptime": "98.25%",
-    "uptimeDay": "93.31%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "92.24%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "98.25%",
     "time": 695,
     "timeDay": 474,
@@ -656,7 +657,8 @@
     "timeMonth": 1284,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2024-06-02": 97,
+      "2024-06-02": 110,
+      "2024-06-03": 2,
       "2024-04-24": 39,
       "2024-03-27": 611,
       "2024-03-26": 391,
@@ -677,18 +679,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/social.artemislena.eu.ico",
     "slug": "go-to-social",
     "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "91.99%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.80%",
+    "uptime": "99.77%",
+    "uptimeDay": "90.92%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.77%",
     "time": 873,
     "timeDay": 491,
     "timeWeek": 533,
     "timeMonth": 960,
     "timeYear": 873,
     "dailyMinutesDown": {
-      "2024-06-02": 115
+      "2024-06-03": 2,
+      "2024-06-02": 128
     }
   },
   {
