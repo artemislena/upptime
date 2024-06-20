@@ -1,7 +1,7 @@
 url: https://matrix.artemislena.eu:8448/_matrix/static
-status: down
-code: 502
-responseTime: 3553
-lastUpdated: 2024-06-20T16:33:19.842Z
+status: up
+code: 200
+responseTime: 466
+lastUpdated: 2024-06-20T16:42:08.469Z
 startTime: 2022-06-01T20:43:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
