@@ -1,7 +1,7 @@
 url: https://tok.artemislena.eu
-status: up
-code: 200
-responseTime: 400
-lastUpdated: 2024-08-29T23:02:09.462Z
+status: down
+code: 502
+responseTime: 596
+lastUpdated: 2024-08-30T12:10:57.448Z
 startTime: 2023-11-05T19:36:28.013Z
 generator: Upptime <https://github.com/upptime/upptime>
