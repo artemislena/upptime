@@ -11,9 +11,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.40%",
     "time": 663,
-    "timeDay": 440,
-    "timeWeek": 571,
-    "timeMonth": 604,
+    "timeDay": 497,
+    "timeWeek": 554,
+    "timeMonth": 602,
     "timeYear": 660,
     "dailyMinutesDown": {
       "2024-09-17": 0,
@@ -28,8 +28,7 @@
       "2024-03-06": 676,
       "2024-03-05": 722,
       "2024-01-10": 388,
-      "2023-11-02": 25,
-      "2023-09-21": 18
+      "2023-11-02": 25
     }
   },
   {
@@ -44,10 +43,10 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.40%",
     "time": 690,
-    "timeDay": 371,
-    "timeWeek": 575,
-    "timeMonth": 582,
-    "timeYear": 688,
+    "timeDay": 397,
+    "timeWeek": 544,
+    "timeMonth": 577,
+    "timeYear": 687,
     "dailyMinutesDown": {
       "2024-09-17": 0,
       "2024-09-16": 31,
@@ -61,8 +60,7 @@
       "2024-03-06": 676,
       "2024-03-05": 721,
       "2024-01-10": 388,
-      "2023-11-02": 25,
-      "2023-09-21": 18
+      "2023-11-02": 25
     }
   },
   {
@@ -77,8 +75,8 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.65%",
     "time": 167,
-    "timeDay": 109,
-    "timeWeek": 138,
+    "timeDay": 112,
+    "timeWeek": 130,
     "timeMonth": 134,
     "timeYear": 160,
     "dailyMinutesDown": {
@@ -102,8 +100,7 @@
       "2024-05-05": 210,
       "2024-01-29": 119,
       "2024-01-10": 387,
-      "2023-11-02": 24,
-      "2023-09-21": 17
+      "2023-11-02": 24
     }
   },
   {
@@ -116,12 +113,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "98.14%",
-    "time": 1332,
-    "timeDay": 1144,
-    "timeWeek": 1190,
-    "timeMonth": 1095,
-    "timeYear": 1338,
+    "uptimeYear": "98.27%",
+    "time": 1331,
+    "timeDay": 984,
+    "timeWeek": 1123,
+    "timeMonth": 1096,
+    "timeYear": 1337,
     "dailyMinutesDown": {
       "2024-09-17": 0,
       "2024-09-16": 29,
@@ -147,8 +144,7 @@
       "2023-11-17": 20,
       "2023-11-02": 24,
       "2023-10-29": 58,
-      "2023-10-02": 16,
-      "2023-09-21": 47
+      "2023-10-02": 16
     }
   },
   {
@@ -161,11 +157,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "98.14%",
-    "time": 781,
-    "timeDay": 450,
-    "timeWeek": 547,
-    "timeMonth": 523,
+    "uptimeYear": "98.27%",
+    "time": 798,
+    "timeDay": 438,
+    "timeWeek": 513,
+    "timeMonth": 521,
     "timeYear": 789,
     "dailyMinutesDown": {
       "2024-09-17": 0,
@@ -192,8 +188,7 @@
       "2023-11-02": 23,
       "2023-10-29": 38,
       "2023-10-15": 21,
-      "2023-10-02": 16,
-      "2023-09-21": 47
+      "2023-10-02": 16
     }
   },
   {
@@ -208,9 +203,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.41%",
     "time": 480,
-    "timeDay": 335,
-    "timeWeek": 416,
-    "timeMonth": 399,
+    "timeDay": 325,
+    "timeWeek": 392,
+    "timeMonth": 398,
     "timeYear": 483,
     "dailyMinutesDown": {
       "2024-09-17": 0,
@@ -224,8 +219,7 @@
       "2024-03-06": 676,
       "2024-03-05": 720,
       "2024-01-10": 386,
-      "2023-11-02": 23,
-      "2023-09-21": 16
+      "2023-11-02": 23
     }
   },
   {
@@ -239,10 +233,10 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "98.59%",
-    "time": 736,
-    "timeDay": 605,
-    "timeWeek": 708,
-    "timeMonth": 566,
+    "time": 735,
+    "timeDay": 460,
+    "timeWeek": 647,
+    "timeMonth": 567,
     "timeYear": 723,
     "dailyMinutesDown": {
       "2024-09-17": 1,
@@ -264,8 +258,7 @@
       "2024-01-29": 18,
       "2024-01-10": 386,
       "2023-11-02": 23,
-      "2023-10-16": 56,
-      "2023-09-21": 43
+      "2023-10-16": 56
     }
   },
   {
@@ -274,16 +267,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/yt.artemislena.eu.ico",
     "slug": "invidious",
     "status": "up",
-    "uptime": "98.87%",
+    "uptime": "98.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "95.03%",
     "uptimeYear": "98.77%",
-    "time": 1213,
-    "timeDay": 421,
-    "timeWeek": 509,
-    "timeMonth": 968,
-    "timeYear": 996,
+    "time": 1210,
+    "timeDay": 524,
+    "timeWeek": 504,
+    "timeMonth": 969,
+    "timeYear": 997,
     "dailyMinutesDown": {
       "2024-09-17": 1,
       "2024-09-16": 28,
@@ -309,8 +302,7 @@
       "2024-01-10": 385,
       "2023-11-05": 61,
       "2023-11-02": 23,
-      "2023-10-16": 56,
-      "2023-09-21": 59
+      "2023-10-16": 56
     }
   },
   {
@@ -325,9 +317,9 @@
     "uptimeMonth": "98.95%",
     "uptimeYear": "97.86%",
     "time": 685,
-    "timeDay": 384,
-    "timeWeek": 533,
-    "timeMonth": 514,
+    "timeDay": 546,
+    "timeWeek": 493,
+    "timeMonth": 516,
     "timeYear": 694,
     "dailyMinutesDown": {
       "2024-09-17": 1,
@@ -357,8 +349,7 @@
       "2023-11-30": 515,
       "2023-11-23": 250,
       "2023-11-02": 22,
-      "2023-10-16": 78,
-      "2023-09-21": 43
+      "2023-10-16": 78
     }
   },
   {
@@ -373,9 +364,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "98.53%",
     "time": 641,
-    "timeDay": 552,
-    "timeWeek": 703,
-    "timeMonth": 548,
+    "timeDay": 376,
+    "timeWeek": 693,
+    "timeMonth": 547,
     "timeYear": 648,
     "dailyMinutesDown": {
       "2024-09-16": 24,
@@ -406,8 +397,7 @@
       "2023-12-07": 18,
       "2023-11-02": 22,
       "2023-10-24": 20,
-      "2023-10-16": 98,
-      "2023-09-21": 42
+      "2023-10-16": 98
     }
   },
   {
@@ -416,13 +406,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/ntfy.artemislena.eu.ico",
     "slug": "ntfy",
     "status": "up",
-    "uptime": "98.31%",
+    "uptime": "98.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "97.44%",
-    "time": 615,
-    "timeDay": 376,
+    "time": 614,
+    "timeDay": 432,
     "timeWeek": 523,
     "timeMonth": 518,
     "timeYear": 612,
@@ -453,8 +443,7 @@
       "2023-11-02": 22,
       "2023-10-24": 20,
       "2023-10-18": 30,
-      "2023-10-16": 76,
-      "2023-09-21": 42
+      "2023-10-16": 76
     }
   },
   {
@@ -467,12 +456,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.06%",
+    "uptimeYear": "99.07%",
     "time": 2168,
-    "timeDay": 968,
-    "timeWeek": 979,
-    "timeMonth": 973,
-    "timeYear": 2413,
+    "timeDay": 918,
+    "timeWeek": 954,
+    "timeMonth": 974,
+    "timeYear": 2421,
     "dailyMinutesDown": {
       "2024-09-16": 23,
       "2024-06-16": 211,
@@ -507,9 +496,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.44%",
     "time": 162,
-    "timeDay": 115,
-    "timeWeek": 146,
-    "timeMonth": 149,
+    "timeDay": 120,
+    "timeWeek": 138,
+    "timeMonth": 148,
     "timeYear": 159,
     "dailyMinutesDown": {
       "2024-09-16": 22,
@@ -540,9 +529,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 124,
-    "timeDay": 94,
-    "timeWeek": 119,
-    "timeMonth": 116,
+    "timeDay": 89,
+    "timeWeek": 109,
+    "timeMonth": 115,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2024-06-16": 133
@@ -560,9 +549,9 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "98.29%",
     "time": 672,
-    "timeDay": 629,
-    "timeWeek": 509,
-    "timeMonth": 497,
+    "timeDay": 479,
+    "timeWeek": 507,
+    "timeMonth": 498,
     "timeYear": 698,
     "dailyMinutesDown": {
       "2024-09-16": 21,
@@ -589,8 +578,7 @@
       "2023-11-05": 812,
       "2023-11-02": 20,
       "2023-10-18": 153,
-      "2023-10-16": 55,
-      "2023-09-21": 42
+      "2023-10-16": 55
     }
   },
   {
@@ -599,16 +587,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/red.artemislena.eu.ico",
     "slug": "redlib",
     "status": "up",
-    "uptime": "95.61%",
+    "uptime": "95.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "95.61%",
-    "time": 656,
-    "timeDay": 392,
-    "timeWeek": 474,
-    "timeMonth": 511,
-    "timeYear": 656,
+    "uptimeYear": "95.63%",
+    "time": 655,
+    "timeDay": 373,
+    "timeWeek": 448,
+    "timeMonth": 509,
+    "timeYear": 655,
     "dailyMinutesDown": {
       "2024-09-16": 21,
       "2024-08-20": 29,
@@ -649,12 +637,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.16%",
-    "time": 610,
-    "timeDay": 526,
-    "timeWeek": 575,
-    "timeMonth": 583,
-    "timeYear": 590,
+    "uptimeYear": "99.17%",
+    "time": 609,
+    "timeDay": 496,
+    "timeWeek": 545,
+    "timeMonth": 582,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2024-06-16": 168,
       "2024-05-12": 118,
@@ -672,16 +660,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tok.artemislena.eu.ico",
     "slug": "proxi-tok",
     "status": "up",
-    "uptime": "98.04%",
+    "uptime": "98.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.08%",
     "uptimeMonth": "97.42%",
-    "uptimeYear": "98.04%",
-    "time": 637,
-    "timeDay": 394,
-    "timeWeek": 486,
+    "uptimeYear": "98.05%",
+    "time": 636,
+    "timeDay": 428,
+    "timeWeek": 465,
     "timeMonth": 487,
-    "timeYear": 637,
+    "timeYear": 636,
     "dailyMinutesDown": {
       "2024-09-16": 663,
       "2024-09-15": 437,
@@ -714,16 +702,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/social.artemislena.eu.ico",
     "slug": "go-to-social",
     "status": "up",
-    "uptime": "99.07%",
+    "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "96.71%",
-    "uptimeYear": "99.07%",
-    "time": 714,
-    "timeDay": 499,
-    "timeWeek": 617,
+    "uptimeYear": "99.08%",
+    "time": 713,
+    "timeDay": 536,
+    "timeWeek": 600,
     "timeMonth": 604,
-    "timeYear": 714,
+    "timeYear": 713,
     "dailyMinutesDown": {
       "2024-09-16": 21,
       "2024-09-11": 141,
@@ -751,8 +739,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.86%",
     "time": 143,
-    "timeDay": 112,
-    "timeWeek": 141,
+    "timeDay": 117,
+    "timeWeek": 132,
     "timeMonth": 137,
     "timeYear": 143,
     "dailyMinutesDown": {
