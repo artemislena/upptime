@@ -1,7 +1,7 @@
 url: https://bw.artemislena.eu
-status: up
-code: 200
-responseTime: 649
-lastUpdated: 2025-01-13T23:01:57.036Z
+status: down
+code: 502
+responseTime: 504
+lastUpdated: 2025-01-14T13:11:39.687Z
 startTime: 2022-11-13T00:03:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
