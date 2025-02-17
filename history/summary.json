@@ -14,7 +14,7 @@
     "timeDay": 920,
     "timeWeek": 833,
     "timeMonth": 842,
-    "timeYear": 665,
+    "timeYear": 666,
     "dailyMinutesDown": {
       "2025-02-02": 67,
       "2025-01-27": 15,
@@ -64,7 +64,7 @@
     "timeDay": 806,
     "timeWeek": 760,
     "timeMonth": 669,
-    "timeYear": 659,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2025-02-02": 67,
       "2025-01-24": 31,
@@ -165,7 +165,7 @@
     "timeDay": 1225,
     "timeWeek": 1396,
     "timeMonth": 1338,
-    "timeYear": 1295,
+    "timeYear": 1296,
     "dailyMinutesDown": {
       "2025-02-02": 66,
       "2025-01-24": 29,
@@ -235,7 +235,7 @@
     "timeDay": 650,
     "timeWeek": 699,
     "timeMonth": 580,
-    "timeYear": 707,
+    "timeYear": 706,
     "dailyMinutesDown": {
       "2025-02-02": 66,
       "2025-01-24": 29,
@@ -404,7 +404,7 @@
     "timeDay": 633,
     "timeWeek": 683,
     "timeMonth": 650,
-    "timeYear": 1448,
+    "timeYear": 1450,
     "dailyMinutesDown": {
       "2025-02-02": 57,
       "2025-01-24": 28,
@@ -570,7 +570,7 @@
     "timeDay": 496,
     "timeWeek": 604,
     "timeMonth": 624,
-    "timeYear": 605,
+    "timeYear": 606,
     "dailyMinutesDown": {
       "2025-02-02": 65,
       "2025-01-24": 28,
@@ -608,8 +608,7 @@
       "2024-03-26": 392,
       "2024-03-06": 660,
       "2024-03-05": 719,
-      "2024-02-23": 31,
-      "2024-02-18": 18
+      "2024-02-23": 31
     }
   },
   {
@@ -668,8 +667,7 @@
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 719,
-      "2024-02-23": 31,
-      "2024-02-18": 18
+      "2024-02-23": 31
     }
   },
   {
@@ -679,17 +677,16 @@
     "slug": "mailcow-web",
     "status": "up",
     "uptime": "98.20%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "94.13%",
     "uptimeYear": "97.38%",
     "time": 2329,
     "timeDay": 851,
     "timeWeek": 1115,
-    "timeMonth": 1157,
-    "timeYear": 1973,
+    "timeMonth": 1153,
+    "timeYear": 1966,
     "dailyMinutesDown": {
-      "2025-02-16": 2,
       "2025-02-02": 64,
       "2025-01-27": 909,
       "2025-01-26": 1439,
@@ -726,17 +723,16 @@
     "slug": "mailcow-smtp",
     "status": "up",
     "uptime": "98.41%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "90.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "90.88%",
     "uptimeYear": "97.48%",
     "time": 157,
     "timeDay": 121,
     "timeWeek": 143,
-    "timeMonth": 143,
-    "timeYear": 155,
+    "timeMonth": 144,
+    "timeYear": 156,
     "dailyMinutesDown": {
-      "2025-02-16": 2,
       "2025-02-02": 55,
       "2025-01-27": 909,
       "2025-01-26": 1439,
