@@ -14,7 +14,7 @@
     "timeDay": 577,
     "timeWeek": 734,
     "timeMonth": 866,
-    "timeYear": 667,
+    "timeYear": 668,
     "dailyMinutesDown": {
       "2025-02-02": 67,
       "2025-01-27": 15,
@@ -64,7 +64,7 @@
     "timeDay": 476,
     "timeWeek": 752,
     "timeMonth": 695,
-    "timeYear": 663,
+    "timeYear": 664,
     "dailyMinutesDown": {
       "2025-02-02": 67,
       "2025-01-24": 31,
@@ -165,7 +165,7 @@
     "timeDay": 1321,
     "timeWeek": 1306,
     "timeMonth": 1366,
-    "timeYear": 1293,
+    "timeYear": 1294,
     "dailyMinutesDown": {
       "2025-02-02": 66,
       "2025-01-24": 29,
@@ -235,7 +235,7 @@
     "timeDay": 600,
     "timeWeek": 581,
     "timeMonth": 596,
-    "timeYear": 700,
+    "timeYear": 699,
     "dailyMinutesDown": {
       "2025-02-02": 66,
       "2025-01-24": 29,
@@ -305,7 +305,7 @@
     "timeDay": 340,
     "timeWeek": 432,
     "timeMonth": 485,
-    "timeYear": 442,
+    "timeYear": 443,
     "dailyMinutesDown": {
       "2025-02-02": 57,
       "2025-01-24": 29,
@@ -404,7 +404,7 @@
     "timeDay": 692,
     "timeWeek": 655,
     "timeMonth": 658,
-    "timeYear": 1445,
+    "timeYear": 1448,
     "dailyMinutesDown": {
       "2025-02-02": 57,
       "2025-01-24": 28,
@@ -675,17 +675,16 @@
     "slug": "mailcow-web",
     "status": "up",
     "uptime": "98.22%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "94.25%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "94.26%",
     "uptimeYear": "97.38%",
     "time": 2345,
     "timeDay": 2585,
     "timeWeek": 1213,
     "timeMonth": 1188,
-    "timeYear": 1914,
+    "timeYear": 1907,
     "dailyMinutesDown": {
-      "2025-02-23": 2,
       "2025-02-18": 18,
       "2025-02-02": 64,
       "2025-01-27": 909,
@@ -723,9 +722,9 @@
     "slug": "mailcow-smtp",
     "status": "up",
     "uptime": "98.42%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "94.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "94.29%",
     "uptimeYear": "97.48%",
     "time": 157,
     "timeDay": 282,
@@ -733,7 +732,6 @@
     "timeMonth": 150,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2025-02-23": 2,
       "2025-02-18": 17,
       "2025-02-02": 55,
       "2025-01-27": 909,
@@ -777,7 +775,7 @@
     "timeDay": 93,
     "timeWeek": 121,
     "timeMonth": 124,
-    "timeYear": 114,
+    "timeYear": 115,
     "dailyMinutesDown": {
       "2024-06-16": 133
     }
@@ -797,7 +795,7 @@
     "timeDay": 570,
     "timeWeek": 581,
     "timeMonth": 613,
-    "timeYear": 628,
+    "timeYear": 629,
     "dailyMinutesDown": {
       "2025-02-02": 54,
       "2025-01-24": 26,
