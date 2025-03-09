@@ -641,7 +641,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.26%",
     "uptimeMonth": "97.19%",
-    "uptimeYear": "97.46%",
+    "uptimeYear": "97.47%",
     "time": 592,
     "timeDay": 0,
     "timeWeek": 575,
@@ -686,8 +686,7 @@
       "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 391,
-      "2024-03-10": 1176,
-      "2024-03-09": 1440
+      "2024-03-10": 1176
     }
   },
   {
@@ -965,7 +964,7 @@
     "slug": "proxi-tok",
     "status": "up",
     "uptime": "97.38%",
-    "uptimeDay": "23.23%",
+    "uptimeDay": "25.96%",
     "uptimeWeek": "75.15%",
     "uptimeMonth": "93.53%",
     "uptimeYear": "97.28%",
@@ -1027,9 +1026,9 @@
     "slug": "go-to-social",
     "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "91.19%",
-    "uptimeMonth": "97.23%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "91.28%",
+    "uptimeMonth": "97.25%",
     "uptimeYear": "98.58%",
     "time": 762,
     "timeDay": 629,
@@ -1037,7 +1036,6 @@
     "timeMonth": 646,
     "timeYear": 762,
     "dailyMinutesDown": {
-      "2025-03-08": 9,
       "2025-03-05": 505,
       "2025-03-04": 373,
       "2025-02-28": 123,
