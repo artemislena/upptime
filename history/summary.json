@@ -727,7 +727,7 @@
     "time": 683,
     "timeDay": 574,
     "timeWeek": 524,
-    "timeMonth": 549,
+    "timeMonth": 554,
     "timeYear": 692,
     "dailyMinutesDown": {
       "2025-09-03": 15,
@@ -811,7 +811,7 @@
     "time": 663,
     "timeDay": 700,
     "timeWeek": 566,
-    "timeMonth": 567,
+    "timeMonth": 571,
     "timeYear": 664,
     "dailyMinutesDown": {
       "2025-09-03": 15,
@@ -900,7 +900,7 @@
     "time": 1659,
     "timeDay": 928,
     "timeWeek": 885,
-    "timeMonth": 913,
+    "timeMonth": 917,
     "timeYear": 1752,
     "dailyMinutesDown": {
       "2025-09-04": 23,
@@ -987,7 +987,7 @@
     "time": 183,
     "timeDay": 154,
     "timeWeek": 148,
-    "timeMonth": 151,
+    "timeMonth": 146,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2025-09-04": 23,
@@ -1095,7 +1095,7 @@
     "time": 744,
     "timeDay": 640,
     "timeWeek": 578,
-    "timeMonth": 566,
+    "timeMonth": 571,
     "timeYear": 730,
     "dailyMinutesDown": {
       "2025-09-04": 29,
@@ -1168,17 +1168,16 @@
     "slug": "redlib",
     "status": "up",
     "uptime": "97.53%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "96.74%",
     "uptimeYear": "97.54%",
     "time": 724,
     "timeDay": 578,
     "timeWeek": 550,
-    "timeMonth": 699,
+    "timeMonth": 708,
     "timeYear": 748,
     "dailyMinutesDown": {
-      "2025-09-04": 2,
       "2025-08-21": 978,
       "2025-08-20": 449,
       "2025-07-22": 137,
@@ -1257,7 +1256,7 @@
     "time": 601,
     "timeDay": 719,
     "timeWeek": 588,
-    "timeMonth": 625,
+    "timeMonth": 623,
     "timeYear": 604,
     "dailyMinutesDown": {
       "2025-01-17": 24
@@ -1277,7 +1276,7 @@
     "time": 721,
     "timeDay": 566,
     "timeWeek": 531,
-    "timeMonth": 487,
+    "timeMonth": 489,
     "timeYear": 712,
     "dailyMinutesDown": {
       "2025-08-21": 1013,
@@ -1381,7 +1380,7 @@
     "time": 814,
     "timeDay": 533,
     "timeWeek": 669,
-    "timeMonth": 581,
+    "timeMonth": 586,
     "timeYear": 836,
     "dailyMinutesDown": {
       "2025-08-21": 978,
