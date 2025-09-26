@@ -49,6 +49,8 @@ sites:
     check: "tcp-ping"
     url: syncplay.artemislena.eu
     port: 8999
+  - name: Dumb
+    url: https://dumb.artemislena.eu
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
