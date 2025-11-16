@@ -993,19 +993,19 @@
     "url": "mail.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailcow-smtp",
-    "status": "up",
-    "uptime": "98.08%",
-    "uptimeDay": "88.05%",
-    "uptimeWeek": "77.86%",
+    "status": "down",
+    "uptime": "98.40%",
+    "uptimeDay": "87.99%",
+    "uptimeWeek": "77.85%",
     "uptimeMonth": "87.47%",
-    "uptimeYear": "93.53%",
+    "uptimeYear": "94.59%",
     "time": 184,
     "timeDay": 172,
     "timeWeek": 190,
     "timeMonth": 192,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-11-16": 172,
+      "2025-11-16": 173,
       "2025-11-15": 61,
       "2025-11-14": 369,
       "2025-11-13": 1391,
@@ -1094,11 +1094,7 @@
       "2025-01-11": 58,
       "2025-01-03": 45,
       "2024-12-28": 82,
-      "2024-12-27": 1314,
-      "2024-12-26": 1440,
-      "2024-12-25": 1440,
-      "2024-12-24": 1440,
-      "2024-12-23": 33
+      "2024-12-27": 85
     }
   },
   {
