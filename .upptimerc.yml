@@ -41,8 +41,6 @@ sites:
     url: https://red.artemislena.eu/info
   - name: Jitsi
     url: https://jitsi.artemislena.eu
-  - name: ProxiTok
-    url: https://tok.artemislena.eu
   - name: GoToSocial
     url: https://social.artemislena.eu
   - name: Syncplay
