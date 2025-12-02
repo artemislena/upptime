@@ -603,17 +603,17 @@
     "slug": "rimgo",
     "status": "up",
     "uptime": "97.74%",
-    "uptimeDay": "96.48%",
-    "uptimeWeek": "97.63%",
-    "uptimeMonth": "95.45%",
-    "uptimeYear": "92.08%",
+    "uptimeDay": "97.13%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "95.47%",
+    "uptimeYear": "92.07%",
     "time": 856,
     "timeDay": 559,
-    "timeWeek": 625,
+    "timeWeek": 638,
     "timeMonth": 778,
     "timeYear": 910,
     "dailyMinutesDown": {
-      "2025-12-02": 50,
+      "2025-12-02": 41,
       "2025-11-30": 21,
       "2025-11-29": 61,
       "2025-11-27": 40,
@@ -705,7 +705,8 @@
       "2025-01-24": 28,
       "2025-01-23": 21,
       "2025-01-22": 95,
-      "2025-01-12": 30
+      "2025-01-12": 30,
+      "2025-01-03": 39
     }
   },
   {
@@ -1194,19 +1195,19 @@
     "url": "https://red.artemislena.eu/info",
     "icon": "https://icons.duckduckgo.com/ip3/red.artemislena.eu.ico",
     "slug": "redlib",
-    "status": "up",
-    "uptime": "98.38%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "98.22%",
+    "status": "down",
+    "uptime": "98.39%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "98.21%",
     "uptimeMonth": "92.89%",
-    "uptimeYear": "97.14%",
+    "uptimeYear": "97.15%",
     "time": 666,
-    "timeDay": 532,
-    "timeWeek": 540,
-    "timeMonth": 580,
+    "timeDay": 525,
+    "timeWeek": 535,
+    "timeMonth": 578,
     "timeYear": 675,
     "dailyMinutesDown": {
-      "2025-12-02": 37,
+      "2025-12-02": 38,
       "2025-11-28": 43,
       "2025-11-26": 45,
       "2025-11-25": 89,
@@ -1280,8 +1281,7 @@
       "2025-03-27": 18,
       "2025-03-25": 945,
       "2025-03-24": 713,
-      "2025-03-23": 55,
-      "2025-03-22": 95
+      "2025-03-23": 55
     }
   },
   {
