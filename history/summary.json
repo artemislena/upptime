@@ -889,19 +889,19 @@
     "url": "https://mail.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/mail.artemislena.eu.ico",
     "slug": "mailcow-web",
-    "status": "up",
+    "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "93.07%",
-    "uptimeWeek": "97.26%",
-    "uptimeMonth": "95.18%",
-    "uptimeYear": "95.63%",
-    "time": 1631,
+    "uptimeDay": "92.98%",
+    "uptimeWeek": "97.24%",
+    "uptimeMonth": "95.17%",
+    "uptimeYear": "95.64%",
+    "time": 1632,
     "timeDay": 1136,
     "timeWeek": 993,
     "timeMonth": 1056,
     "timeYear": 1422,
     "dailyMinutesDown": {
-      "2025-12-09": 69,
+      "2025-12-09": 70,
       "2025-12-08": 31,
       "2025-12-06": 161,
       "2025-12-04": 16,
@@ -979,8 +979,7 @@
       "2025-03-22": 101,
       "2025-03-05": 505,
       "2025-03-04": 376,
-      "2025-02-28": 130,
-      "2025-02-26": 30
+      "2025-02-28": 130
     }
   },
   {
@@ -988,19 +987,19 @@
     "url": "mail.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailcow-smtp",
-    "status": "up",
-    "uptime": "98.59%",
-    "uptimeDay": "93.08%",
-    "uptimeWeek": "96.98%",
+    "status": "down",
+    "uptime": "98.65%",
+    "uptimeDay": "92.98%",
+    "uptimeWeek": "96.96%",
     "uptimeMonth": "92.62%",
-    "uptimeYear": "95.16%",
+    "uptimeYear": "95.34%",
     "time": 185,
     "timeDay": 139,
     "timeWeek": 156,
     "timeMonth": 159,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2025-12-09": 69,
+      "2025-12-09": 70,
       "2025-12-08": 31,
       "2025-12-06": 205,
       "2025-11-23": 27,
@@ -1082,9 +1081,7 @@
       "2025-02-28": 129,
       "2025-02-26": 29,
       "2025-02-18": 17,
-      "2025-02-02": 55,
-      "2025-01-27": 909,
-      "2025-01-26": 58
+      "2025-02-02": 55
     }
   },
   {
@@ -1200,7 +1197,7 @@
     "uptimeYear": "97.13%",
     "time": 661,
     "timeDay": 632,
-    "timeWeek": 552,
+    "timeWeek": 557,
     "timeMonth": 567,
     "timeYear": 671,
     "dailyMinutesDown": {
