@@ -609,18 +609,19 @@
     "url": "https://imgur.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/imgur.artemislena.eu.ico",
     "slug": "rimgo",
-    "status": "up",
+    "status": "down",
     "uptime": "97.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.41%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "97.40%",
     "uptimeMonth": "95.04%",
-    "uptimeYear": "92.10%",
-    "time": 869,
+    "uptimeYear": "92.11%",
+    "time": 870,
     "timeDay": 552,
     "timeWeek": 756,
-    "timeMonth": 806,
+    "timeMonth": 811,
     "timeYear": 909,
     "dailyMinutesDown": {
+      "2025-12-09": 1,
       "2025-12-07": 60,
       "2025-12-06": 24,
       "2025-12-05": 94,
@@ -710,8 +711,7 @@
       "2025-03-05": 505,
       "2025-03-04": 377,
       "2025-02-28": 131,
-      "2025-02-26": 221,
-      "2025-02-18": 19
+      "2025-02-26": 221
     }
   },
   {
