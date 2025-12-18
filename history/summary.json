@@ -619,9 +619,9 @@
     "slug": "rimgo",
     "status": "up",
     "uptime": "97.84%",
-    "uptimeDay": "94.16%",
-    "uptimeWeek": "95.17%",
-    "uptimeMonth": "97.42%",
+    "uptimeDay": "94.70%",
+    "uptimeWeek": "95.27%",
+    "uptimeMonth": "97.44%",
     "uptimeYear": "92.34%",
     "time": 986,
     "timeDay": 2309,
@@ -629,7 +629,7 @@
     "timeMonth": 1896,
     "timeYear": 1061,
     "dailyMinutesDown": {
-      "2025-12-18": 84,
+      "2025-12-18": 76,
       "2025-12-14": 129,
       "2025-12-13": 73,
       "2025-12-12": 100,
@@ -718,7 +718,7 @@
       "2025-04-02": 227,
       "2025-03-27": 21,
       "2025-03-25": 948,
-      "2025-03-24": 371
+      "2025-03-24": 386
     }
   },
   {
@@ -897,10 +897,10 @@
     "url": "https://mail.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/mail.artemislena.eu.ico",
     "slug": "mailcow-web",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "92.42%",
-    "uptimeWeek": "93.69%",
+    "uptimeDay": "92.35%",
+    "uptimeWeek": "93.68%",
     "uptimeMonth": "97.25%",
     "uptimeYear": "96.01%",
     "time": 1571,
@@ -909,7 +909,7 @@
     "timeMonth": 1008,
     "timeYear": 1378,
     "dailyMinutesDown": {
-      "2025-12-18": 110,
+      "2025-12-18": 111,
       "2025-12-16": 44,
       "2025-12-15": 386,
       "2025-12-14": 22,
@@ -986,8 +986,7 @@
       "2025-04-12": 36,
       "2025-04-10": 83,
       "2025-04-09": 36,
-      "2025-04-02": 237,
-      "2025-03-27": 20
+      "2025-04-02": 237
     }
   },
   {
@@ -995,19 +994,19 @@
     "url": "mail.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailcow-smtp",
-    "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "92.67%",
-    "uptimeWeek": "93.76%",
-    "uptimeMonth": "97.21%",
-    "uptimeYear": "95.45%",
+    "status": "down",
+    "uptime": "98.70%",
+    "uptimeDay": "92.60%",
+    "uptimeWeek": "93.75%",
+    "uptimeMonth": "97.20%",
+    "uptimeYear": "95.48%",
     "time": 181,
     "timeDay": 153,
     "timeWeek": 140,
     "timeMonth": 147,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-12-18": 105,
+      "2025-12-18": 106,
       "2025-12-16": 43,
       "2025-12-15": 385,
       "2025-12-14": 21,
@@ -1088,7 +1087,7 @@
       "2025-04-02": 235,
       "2025-03-27": 19,
       "2025-03-25": 964,
-      "2025-03-24": 502
+      "2025-03-24": 368
     }
   },
   {
