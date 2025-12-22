@@ -1286,18 +1286,19 @@
     "url": "https://jitsi.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/jitsi.artemislena.eu.ico",
     "slug": "jitsi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 612,
+    "time": 613,
     "timeDay": 497,
     "timeWeek": 632,
     "timeMonth": 589,
     "timeYear": 610,
     "dailyMinutesDown": {
+      "2025-12-22": 1,
       "2025-01-17": 24
     }
   },
