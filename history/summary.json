@@ -918,18 +918,19 @@
     "url": "https://mail.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/mail.artemislena.eu.ico",
     "slug": "mailcow-web",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "uptimeDay": "87.68%",
-    "uptimeWeek": "91.96%",
+    "uptimeDay": "87.61%",
+    "uptimeWeek": "91.95%",
     "uptimeMonth": "95.71%",
-    "uptimeYear": "96.13%",
-    "time": 1580,
+    "uptimeYear": "96.14%",
+    "time": 1581,
     "timeDay": 1060,
     "timeWeek": 1010,
     "timeMonth": 1018,
     "timeYear": 1358,
     "dailyMinutesDown": {
+      "2025-12-25": 1,
       "2025-12-24": 177,
       "2025-12-23": 106,
       "2025-12-22": 177,
@@ -1002,8 +1003,7 @@
       "2025-05-17": 486,
       "2025-05-12": 89,
       "2025-05-11": 134,
-      "2025-05-07": 27,
-      "2025-05-06": 22
+      "2025-05-07": 27
     }
   },
   {
@@ -1011,18 +1011,19 @@
     "url": "mail.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailcow-smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "87.76%",
-    "uptimeWeek": "92.10%",
+    "uptimeDay": "87.70%",
+    "uptimeWeek": "92.09%",
     "uptimeMonth": "95.69%",
-    "uptimeYear": "95.68%",
+    "uptimeYear": "95.69%",
     "time": 181,
     "timeDay": 170,
     "timeWeek": 144,
     "timeMonth": 147,
     "timeYear": 186,
     "dailyMinutesDown": {
+      "2025-12-25": 1,
       "2025-12-24": 176,
       "2025-12-23": 103,
       "2025-12-22": 175,
@@ -1099,8 +1100,7 @@
       "2025-05-07": 17,
       "2025-05-06": 34,
       "2025-04-30": 393,
-      "2025-04-29": 457,
-      "2025-04-26": 51
+      "2025-04-29": 457
     }
   },
   {
