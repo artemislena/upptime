@@ -372,7 +372,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.39%",
     "uptimeMonth": "97.73%",
-    "uptimeYear": "93.64%",
+    "uptimeYear": "93.65%",
     "time": 704,
     "timeDay": 669,
     "timeWeek": 535,
@@ -640,12 +640,12 @@
     "uptime": "97.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.46%",
-    "uptimeMonth": "95.20%",
+    "uptimeMonth": "95.23%",
     "uptimeYear": "92.65%",
     "time": 1218,
     "timeDay": 370,
     "timeWeek": 617,
-    "timeMonth": 3054,
+    "timeMonth": 3077,
     "timeYear": 1300,
     "dailyMinutesDown": {
       "2025-12-28": 21,
@@ -917,9 +917,9 @@
     "slug": "mailcow-web",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "97.37%",
-    "uptimeMonth": "95.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.47%",
+    "uptimeMonth": "95.53%",
     "uptimeYear": "96.15%",
     "time": 1603,
     "timeDay": 1924,
@@ -927,7 +927,6 @@
     "timeMonth": 1147,
     "timeYear": 1366,
     "dailyMinutesDown": {
-      "2025-12-31": 10,
       "2025-12-28": 60,
       "2025-12-25": 17,
       "2025-12-24": 177,
@@ -1000,7 +999,8 @@
       "2025-05-20": 39,
       "2025-05-18": 43,
       "2025-05-17": 486,
-      "2025-05-12": 89
+      "2025-05-12": 89,
+      "2025-05-11": 38
     }
   },
   {
@@ -1010,9 +1010,9 @@
     "slug": "mailcow-smtp",
     "status": "up",
     "uptime": "98.81%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "97.40%",
-    "uptimeMonth": "95.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.50%",
+    "uptimeMonth": "95.52%",
     "uptimeYear": "95.84%",
     "time": 182,
     "timeDay": 145,
@@ -1020,7 +1020,6 @@
     "timeMonth": 145,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2025-12-31": 10,
       "2025-12-28": 59,
       "2025-12-25": 17,
       "2025-12-24": 176,
@@ -1096,7 +1095,8 @@
       "2025-05-17": 430,
       "2025-05-12": 88,
       "2025-05-11": 123,
-      "2025-05-07": 17
+      "2025-05-07": 17,
+      "2025-05-06": 18
     }
   },
   {
@@ -1208,18 +1208,19 @@
     "url": "https://red.artemislena.eu/info",
     "icon": "https://icons.duckduckgo.com/ip3/red.artemislena.eu.ico",
     "slug": "redlib",
-    "status": "up",
-    "uptime": "98.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.56%",
+    "status": "down",
+    "uptime": "98.63%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "92.55%",
     "uptimeMonth": "96.31%",
-    "uptimeYear": "97.44%",
+    "uptimeYear": "97.46%",
     "time": 659,
-    "timeDay": 530,
-    "timeWeek": 514,
-    "timeMonth": 536,
-    "timeYear": 657,
+    "timeDay": 508,
+    "timeWeek": 511,
+    "timeMonth": 535,
+    "timeYear": 656,
     "dailyMinutesDown": {
+      "2025-12-31": 1,
       "2025-12-29": 22,
       "2025-12-28": 72,
       "2025-12-27": 42,
@@ -1292,8 +1293,7 @@
       "2025-05-17": 440,
       "2025-05-12": 87,
       "2025-05-11": 119,
-      "2025-05-07": 121,
-      "2025-05-06": 39
+      "2025-05-07": 17
     }
   },
   {
