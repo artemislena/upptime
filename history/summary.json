@@ -858,19 +858,19 @@
     "url": "https://ntfy.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/ntfy.artemislena.eu.ico",
     "slug": "ntfy",
-    "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "98.06%",
-    "uptimeWeek": "95.42%",
+    "status": "down",
+    "uptime": "99.30%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "95.41%",
     "uptimeMonth": "96.38%",
-    "uptimeYear": "97.39%",
+    "uptimeYear": "97.41%",
     "time": 637,
     "timeDay": 635,
     "timeWeek": 547,
     "timeMonth": 531,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2026-02-04": 28,
+      "2026-02-04": 30,
       "2026-01-30": 14,
       "2026-01-29": 419,
       "2026-01-28": 20,
@@ -943,8 +943,7 @@
       "2025-03-23": 67,
       "2025-03-22": 101,
       "2025-03-05": 505,
-      "2025-03-04": 376,
-      "2025-02-28": 126
+      "2025-03-04": 376
     }
   },
   {
