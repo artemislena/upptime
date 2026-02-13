@@ -865,18 +865,19 @@
     "url": "https://ntfy.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/ntfy.artemislena.eu.ico",
     "slug": "ntfy",
-    "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.53%",
-    "uptimeMonth": "96.58%",
-    "uptimeYear": "97.49%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "95.52%",
+    "uptimeMonth": "96.57%",
+    "uptimeYear": "97.51%",
     "time": 638,
     "timeDay": 851,
     "timeWeek": 576,
     "timeMonth": 548,
     "timeYear": 648,
     "dailyMinutesDown": {
+      "2026-02-13": 1,
       "2026-02-11": 450,
       "2026-02-04": 49,
       "2026-01-30": 14,
@@ -948,8 +949,7 @@
       "2025-03-27": 20,
       "2025-03-25": 948,
       "2025-03-24": 762,
-      "2025-03-23": 67,
-      "2025-03-22": 101
+      "2025-03-23": 67
     }
   },
   {
@@ -1238,17 +1238,17 @@
     "slug": "redlib",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "80.25%",
-    "uptimeWeek": "87.74%",
-    "uptimeMonth": "92.22%",
-    "uptimeYear": "98.04%",
+    "uptimeDay": "81.18%",
+    "uptimeWeek": "87.87%",
+    "uptimeMonth": "92.25%",
+    "uptimeYear": "98.03%",
     "time": 640,
     "timeDay": 539,
     "timeWeek": 567,
     "timeMonth": 547,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2026-02-13": 250,
+      "2026-02-13": 237,
       "2026-02-12": 232,
       "2026-02-11": 563,
       "2026-02-10": 147,
@@ -1309,7 +1309,7 @@
       "2025-11-01": 48,
       "2025-10-31": 51,
       "2025-10-27": 68,
-      "2025-10-26": 2
+      "2025-10-26": 37
     }
   },
   {
