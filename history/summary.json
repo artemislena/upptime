@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/artemislena.eu.ico",
     "slug": "main-site",
     "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "95.28%",
-    "uptimeMonth": "96.61%",
-    "uptimeYear": "97.14%",
+    "uptime": "99.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.42%",
+    "uptimeMonth": "96.64%",
+    "uptimeYear": "97.10%",
     "time": 906,
     "timeDay": 661,
     "timeWeek": 794,
     "timeMonth": 783,
     "timeYear": 925,
     "dailyMinutesDown": {
-      "2026-02-14": 14,
       "2026-02-11": 462,
       "2026-01-30": 49,
       "2026-01-29": 379,
@@ -91,7 +90,8 @@
       "2025-03-22": 104,
       "2025-03-05": 523,
       "2025-03-04": 380,
-      "2025-02-28": 134
+      "2025-02-28": 134,
+      "2025-02-26": 216
     }
   },
   {
@@ -294,9 +294,9 @@
     "slug": "matrix-client",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "95.06%",
-    "uptimeMonth": "96.13%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.20%",
+    "uptimeMonth": "96.17%",
     "uptimeYear": "97.58%",
     "time": 1325,
     "timeDay": 928,
@@ -304,7 +304,6 @@
     "timeMonth": 1224,
     "timeYear": 1344,
     "dailyMinutesDown": {
-      "2026-02-14": 14,
       "2026-02-12": 24,
       "2026-02-11": 460,
       "2026-02-04": 167,
@@ -379,7 +378,8 @@
       "2025-04-24": 26,
       "2025-04-12": 37,
       "2025-04-10": 86,
-      "2025-04-09": 37
+      "2025-04-09": 37,
+      "2025-04-05": 19
     }
   },
   {
@@ -389,17 +389,16 @@
     "slug": "matrix-server",
     "status": "up",
     "uptime": "98.97%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "95.06%",
-    "uptimeMonth": "96.18%",
-    "uptimeYear": "96.17%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.20%",
+    "uptimeMonth": "96.21%",
+    "uptimeYear": "96.16%",
     "time": 683,
     "timeDay": 524,
     "timeWeek": 523,
     "timeMonth": 507,
     "timeYear": 717,
     "dailyMinutesDown": {
-      "2026-02-14": 14,
       "2026-02-12": 24,
       "2026-02-11": 459,
       "2026-02-04": 167,
@@ -477,7 +476,8 @@
       "2025-04-10": 78,
       "2025-04-09": 37,
       "2025-04-05": 19,
-      "2025-04-02": 239
+      "2025-04-02": 239,
+      "2025-03-27": 22
     }
   },
   {
@@ -776,9 +776,9 @@
     "slug": "crypt-pad",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "95.39%",
-    "uptimeMonth": "96.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.53%",
+    "uptimeMonth": "96.78%",
     "uptimeYear": "97.26%",
     "time": 675,
     "timeDay": 491,
@@ -786,7 +786,6 @@
     "timeMonth": 593,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2026-02-14": 14,
       "2026-02-11": 450,
       "2026-01-30": 14,
       "2026-01-29": 372,
@@ -858,7 +857,7 @@
       "2025-03-27": 21,
       "2025-03-25": 948,
       "2025-03-24": 763,
-      "2025-03-23": 32
+      "2025-03-23": 52
     }
   },
   {
@@ -960,17 +959,16 @@
     "slug": "mailcow-web",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "86.55%",
-    "uptimeMonth": "91.44%",
-    "uptimeYear": "97.33%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "86.69%",
+    "uptimeMonth": "91.47%",
+    "uptimeYear": "97.32%",
     "time": 1408,
     "timeDay": 1045,
     "timeWeek": 1120,
     "timeMonth": 1500,
     "timeYear": 1391,
     "dailyMinutesDown": {
-      "2026-02-14": 14,
       "2026-02-11": 458,
       "2026-02-09": 780,
       "2026-02-08": 103,
@@ -1032,7 +1030,8 @@
       "2025-10-08": 207,
       "2025-10-04": 389,
       "2025-10-03": 280,
-      "2025-10-01": 174
+      "2025-10-01": 174,
+      "2025-09-29": 52
     }
   },
   {
@@ -1041,18 +1040,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailcow-smtp",
     "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "94.65%",
-    "uptimeMonth": "93.40%",
-    "uptimeYear": "97.24%",
+    "uptime": "99.23%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "94.78%",
+    "uptimeMonth": "93.43%",
+    "uptimeYear": "97.22%",
     "time": 177,
     "timeDay": 162,
     "timeWeek": 152,
     "timeMonth": 139,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2026-02-14": 14,
       "2026-02-11": 456,
       "2026-02-09": 53,
       "2026-02-08": 17,
@@ -1116,7 +1114,8 @@
       "2025-10-04": 388,
       "2025-10-03": 279,
       "2025-09-29": 80,
-      "2025-09-24": 373
+      "2025-09-24": 373,
+      "2025-09-09": 77
     }
   },
   {
@@ -1237,19 +1236,19 @@
     "url": "https://red.artemislena.eu/info",
     "icon": "https://icons.duckduckgo.com/ip3/red.artemislena.eu.ico",
     "slug": "redlib",
-    "status": "down",
+    "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "80.79%",
-    "uptimeWeek": "85.53%",
-    "uptimeMonth": "91.71%",
-    "uptimeYear": "98.02%",
+    "uptimeDay": "80.86%",
+    "uptimeWeek": "85.34%",
+    "uptimeMonth": "91.67%",
+    "uptimeYear": "98.01%",
     "time": 639,
-    "timeDay": 558,
-    "timeWeek": 565,
-    "timeMonth": 546,
+    "timeDay": 555,
+    "timeWeek": 563,
+    "timeMonth": 545,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2026-02-14": 235,
+      "2026-02-14": 255,
       "2026-02-13": 237,
       "2026-02-12": 232,
       "2026-02-11": 563,
