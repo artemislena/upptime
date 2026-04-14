@@ -13,7 +13,7 @@
     "time": 890,
     "timeDay": 1066,
     "timeWeek": 635,
-    "timeMonth": 588,
+    "timeMonth": 591,
     "timeYear": 895,
     "dailyMinutesDown": {
       "2026-04-10": 26,
@@ -99,8 +99,8 @@
     "time": 798,
     "timeDay": 470,
     "timeWeek": 584,
-    "timeMonth": 562,
-    "timeYear": 809,
+    "timeMonth": 565,
+    "timeYear": 810,
     "dailyMinutesDown": {
       "2026-04-10": 26,
       "2026-03-17": 20,
@@ -274,7 +274,7 @@
     "time": 1320,
     "timeDay": 922,
     "timeWeek": 987,
-    "timeMonth": 1232,
+    "timeMonth": 1229,
     "timeYear": 1275,
     "dailyMinutesDown": {
       "2026-04-10": 25,
@@ -369,7 +369,7 @@
     "time": 704,
     "timeDay": 922,
     "timeWeek": 608,
-    "timeMonth": 615,
+    "timeMonth": 611,
     "timeYear": 682,
     "dailyMinutesDown": {
       "2026-04-10": 24,
@@ -466,8 +466,8 @@
     "time": 631,
     "timeDay": 370,
     "timeWeek": 495,
-    "timeMonth": 485,
-    "timeYear": 613,
+    "timeMonth": 484,
+    "timeYear": 614,
     "dailyMinutesDown": {
       "2026-03-17": 18,
       "2026-03-15": 54,
@@ -630,8 +630,8 @@
     "time": 1273,
     "timeDay": 23432,
     "timeWeek": 4348,
-    "timeMonth": 2125,
-    "timeYear": 1325,
+    "timeMonth": 2174,
+    "timeYear": 1326,
     "dailyMinutesDown": {
       "2026-03-17": 18,
       "2026-03-15": 54,
@@ -735,7 +735,7 @@
     "time": 671,
     "timeDay": 1196,
     "timeWeek": 563,
-    "timeMonth": 530,
+    "timeMonth": 532,
     "timeYear": 649,
     "dailyMinutesDown": {
       "2026-03-17": 18,
@@ -820,8 +820,8 @@
     "time": 635,
     "timeDay": 1401,
     "timeWeek": 593,
-    "timeMonth": 535,
-    "timeYear": 606,
+    "timeMonth": 537,
+    "timeYear": 607,
     "dailyMinutesDown": {
       "2026-04-11": 25,
       "2026-03-17": 17,
@@ -907,8 +907,8 @@
     "time": 1364,
     "timeDay": 1011,
     "timeWeek": 930,
-    "timeMonth": 1183,
-    "timeYear": 1340,
+    "timeMonth": 1171,
+    "timeYear": 1341,
     "dailyMinutesDown": {
       "2026-04-05": 15,
       "2026-04-01": 20,
@@ -987,7 +987,7 @@
     "time": 179,
     "timeDay": 151,
     "timeWeek": 182,
-    "timeMonth": 169,
+    "timeMonth": 168,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2026-04-05": 15,
@@ -1091,8 +1091,8 @@
     "time": 696,
     "timeDay": 648,
     "timeWeek": 523,
-    "timeMonth": 508,
-    "timeYear": 700,
+    "timeMonth": 505,
+    "timeYear": 701,
     "dailyMinutesDown": {
       "2026-04-04": 18,
       "2026-03-25": 16,
@@ -1173,19 +1173,19 @@
     "url": "https://red.artemislena.eu/info",
     "icon": "https://icons.duckduckgo.com/ip3/red.artemislena.eu.ico",
     "slug": "redlib",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "89.24%",
-    "uptimeWeek": "79.72%",
-    "uptimeMonth": "86.24%",
-    "uptimeYear": "98.84%",
+    "uptimeDay": "93.39%",
+    "uptimeWeek": "79.95%",
+    "uptimeMonth": "86.42%",
+    "uptimeYear": "98.85%",
     "time": 621,
-    "timeDay": 503,
-    "timeWeek": 578,
+    "timeDay": 519,
+    "timeWeek": 581,
     "timeMonth": 565,
-    "timeYear": 608,
+    "timeYear": 604,
     "dailyMinutesDown": {
-      "2026-04-14": 93,
+      "2026-04-14": 95,
       "2026-04-13": 388,
       "2026-04-12": 798,
       "2026-04-11": 249,
@@ -1214,7 +1214,7 @@
       "2026-03-17": 161,
       "2026-03-16": 204,
       "2026-03-15": 147,
-      "2026-03-14": 136
+      "2026-03-14": 79
     }
   },
   {
@@ -1231,7 +1231,7 @@
     "time": 624,
     "timeDay": 445,
     "timeWeek": 525,
-    "timeMonth": 594,
+    "timeMonth": 597,
     "timeYear": 619,
     "dailyMinutesDown": {
       "2026-02-19": 85,
@@ -1253,8 +1253,8 @@
     "time": 731,
     "timeDay": 919,
     "timeWeek": 628,
-    "timeMonth": 638,
-    "timeYear": 721,
+    "timeMonth": 637,
+    "timeYear": 722,
     "dailyMinutesDown": {
       "2026-03-17": 17,
       "2026-03-15": 51,
@@ -1336,7 +1336,7 @@
     "time": 170,
     "timeDay": 124,
     "timeWeek": 138,
-    "timeMonth": 147,
+    "timeMonth": 145,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2026-03-17": 15,
@@ -1410,7 +1410,7 @@
     "time": 524,
     "timeDay": 683,
     "timeWeek": 503,
-    "timeMonth": 539,
+    "timeMonth": 541,
     "timeYear": 524,
     "dailyMinutesDown": {
       "2026-03-17": 15,
