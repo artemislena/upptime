@@ -99,7 +99,7 @@
     "timeDay": 611,
     "timeWeek": 587,
     "timeMonth": 584,
-    "timeYear": 810,
+    "timeYear": 811,
     "dailyMinutesDown": {
       "2026-04-10": 26,
       "2026-03-17": 20,
@@ -367,7 +367,7 @@
     "timeDay": 688,
     "timeWeek": 565,
     "timeMonth": 611,
-    "timeYear": 680,
+    "timeYear": 681,
     "dailyMinutesDown": {
       "2026-04-10": 24,
       "2026-03-17": 19,
@@ -459,7 +459,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.56%",
-    "time": 633,
+    "time": 636,
     "timeDay": 515,
     "timeWeek": 437,
     "timeMonth": 451,
@@ -625,7 +625,7 @@
     "timeDay": 694,
     "timeWeek": 583,
     "timeMonth": 2201,
-    "timeYear": 1326,
+    "timeYear": 1327,
     "dailyMinutesDown": {
       "2026-04-15": 27,
       "2026-03-17": 18,
@@ -730,7 +730,7 @@
     "timeDay": 628,
     "timeWeek": 553,
     "timeMonth": 541,
-    "timeYear": 649,
+    "timeYear": 650,
     "dailyMinutesDown": {
       "2026-03-17": 18,
       "2026-03-15": 54,
@@ -900,7 +900,7 @@
     "timeDay": 1095,
     "timeWeek": 956,
     "timeMonth": 984,
-    "timeYear": 1344,
+    "timeYear": 1345,
     "dailyMinutesDown": {
       "2026-04-05": 15,
       "2026-04-01": 20,
@@ -1084,7 +1084,7 @@
     "timeDay": 620,
     "timeWeek": 500,
     "timeMonth": 510,
-    "timeYear": 701,
+    "timeYear": 702,
     "dailyMinutesDown": {
       "2026-04-04": 18,
       "2026-03-25": 16,
@@ -1164,18 +1164,19 @@
     "url": "https://red.artemislena.eu/info",
     "icon": "https://icons.duckduckgo.com/ip3/red.artemislena.eu.ico",
     "slug": "redlib",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "86.59%",
-    "uptimeWeek": "92.67%",
-    "uptimeMonth": "86.59%",
-    "uptimeYear": "98.83%",
+    "uptimeDay": "93.64%",
+    "uptimeWeek": "92.66%",
+    "uptimeMonth": "86.58%",
+    "uptimeYear": "98.84%",
     "time": 619,
-    "timeDay": 530,
-    "timeWeek": 589,
-    "timeMonth": 574,
+    "timeDay": 571,
+    "timeWeek": 585,
+    "timeMonth": 573,
     "timeYear": 605,
     "dailyMinutesDown": {
+      "2026-04-24": 1,
       "2026-04-23": 193,
       "2026-04-22": 201,
       "2026-04-21": 38,
@@ -1207,7 +1208,7 @@
       "2026-03-24": 125,
       "2026-03-23": 98,
       "2026-03-22": 100,
-      "2026-03-21": 84
+      "2026-03-21": 23
     }
   },
   {
