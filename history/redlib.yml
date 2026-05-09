@@ -1,7 +1,7 @@
 url: https://red.artemislena.eu/info
-status: up
-code: 200
-responseTime: 616
-lastUpdated: 2026-05-08T23:17:26.116Z
+status: down
+code: 502
+responseTime: 320
+lastUpdated: 2026-05-09T07:14:01.168Z
 startTime: 2024-02-25T14:32:51.628Z
 generator: Upptime <https://github.com/upptime/upptime>
