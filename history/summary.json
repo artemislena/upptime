@@ -815,11 +815,11 @@
     "url": "https://mail.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/mail.artemislena.eu.ico",
     "slug": "mailcow-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "72.82%",
-    "uptimeMonth": "93.09%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "72.77%",
+    "uptimeMonth": "93.08%",
     "uptimeYear": "97.49%",
     "time": 1366,
     "timeDay": 778,
@@ -827,6 +827,7 @@
     "timeMonth": 1540,
     "timeYear": 1364,
     "dailyMinutesDown": {
+      "2026-05-22": 5,
       "2026-05-18": 875,
       "2026-05-17": 1440,
       "2026-05-16": 425,
@@ -889,8 +890,7 @@
       "2025-11-23": 28,
       "2025-11-18": 625,
       "2025-11-17": 45,
-      "2025-11-16": 178,
-      "2025-11-15": 20
+      "2025-11-16": 178
     }
   },
   {
@@ -898,18 +898,19 @@
     "url": "mail.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailcow-smtp",
-    "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "72.86%",
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "72.85%",
     "uptimeMonth": "93.11%",
-    "uptimeYear": "97.31%",
+    "uptimeYear": "97.58%",
     "time": 178,
     "timeDay": 131,
     "timeWeek": 139,
     "timeMonth": 153,
     "timeYear": 164,
     "dailyMinutesDown": {
+      "2026-05-22": 1,
       "2026-05-18": 875,
       "2026-05-17": 1440,
       "2026-05-16": 421,
@@ -973,9 +974,7 @@
       "2025-11-17": 45,
       "2025-11-16": 172,
       "2025-11-15": 61,
-      "2025-11-14": 369,
-      "2025-11-13": 1391,
-      "2025-11-12": 56
+      "2025-11-14": 369
     }
   },
   {
@@ -1087,19 +1086,19 @@
     "url": "https://red.artemislena.eu/info",
     "icon": "https://icons.duckduckgo.com/ip3/red.artemislena.eu.ico",
     "slug": "redlib",
-    "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "88.32%",
-    "uptimeWeek": "92.59%",
-    "uptimeMonth": "90.06%",
-    "uptimeYear": "98.89%",
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "88.25%",
+    "uptimeWeek": "92.58%",
+    "uptimeMonth": "90.11%",
+    "uptimeYear": "98.90%",
     "time": 610,
-    "timeDay": 566,
-    "timeWeek": 538,
+    "timeDay": 543,
+    "timeWeek": 533,
     "timeMonth": 533,
-    "timeYear": 581,
+    "timeYear": 580,
     "dailyMinutesDown": {
-      "2026-05-22": 168,
+      "2026-05-22": 169,
       "2026-05-21": 79,
       "2026-05-20": 118,
       "2026-05-19": 83,
@@ -1134,8 +1133,7 @@
       "2026-04-16": 293,
       "2026-04-15": 132,
       "2026-04-14": 146,
-      "2026-04-13": 388,
-      "2026-04-12": 62
+      "2026-04-13": 388
     }
   },
   {
