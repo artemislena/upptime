@@ -608,7 +608,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.08%",
+    "uptimeYear": "98.09%",
     "time": 654,
     "timeDay": 530,
     "timeWeek": 580,
@@ -1018,9 +1018,9 @@
     "slug": "redlib",
     "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "83.75%",
+    "uptimeDay": "83.61%",
     "uptimeWeek": "62.73%",
-    "uptimeMonth": "78.50%",
+    "uptimeMonth": "78.49%",
     "uptimeYear": "98.12%",
     "time": 595,
     "timeDay": 476,
@@ -1060,7 +1060,7 @@
       "2026-06-09": 362,
       "2026-06-10": 291,
       "2026-06-11": 233,
-      "2026-06-12": 1
+      "2026-06-12": 3
     }
   },
   {
