@@ -986,15 +986,15 @@
     "url": "https://red.artemislena.eu/info",
     "icon": "https://icons.duckduckgo.com/ip3/red.artemislena.eu.ico",
     "slug": "redlib",
-    "status": "down",
+    "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "79.38%",
-    "uptimeWeek": "84.50%",
-    "uptimeMonth": "77.97%",
-    "uptimeYear": "98.13%",
+    "uptimeDay": "75.93%",
+    "uptimeWeek": "84.01%",
+    "uptimeMonth": "77.86%",
+    "uptimeYear": "98.12%",
     "time": 587,
-    "timeDay": 491,
-    "timeWeek": 504,
+    "timeDay": 506,
+    "timeWeek": 506,
     "timeMonth": 523,
     "timeYear": 566,
     "dailyMinutesDown": {
@@ -1030,7 +1030,7 @@
       "2026-06-12": 167,
       "2026-06-13": 82,
       "2026-06-14": 142,
-      "2026-06-15": 246
+      "2026-06-15": 296
     }
   },
   {
