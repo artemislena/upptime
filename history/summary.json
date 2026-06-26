@@ -470,18 +470,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/imgur.artemislena.eu.ico",
     "slug": "rimgo",
     "status": "up",
-    "uptime": "98.21%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "92.70%",
+    "uptime": "98.20%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "92.68%",
     "time": 1234,
     "timeDay": 584,
     "timeWeek": 735,
     "timeMonth": 594,
     "timeYear": 1330,
     "dailyMinutesDown": {
-      "2025-07-18": 177,
+      "2025-07-18": 284,
       "2025-07-19": 149,
       "2025-07-22": 140,
       "2025-08-21": 977,
@@ -566,8 +566,7 @@
       "2026-03-17": 18,
       "2026-04-15": 27,
       "2026-04-24": 177,
-      "2026-05-11": 94,
-      "2026-06-26": 14
+      "2026-05-11": 94
     }
   },
   {
@@ -973,19 +972,18 @@
     "url": "https://red.artemislena.eu/info",
     "icon": "https://icons.duckduckgo.com/ip3/red.artemislena.eu.ico",
     "slug": "redlib",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "92.08%",
-    "uptimeWeek": "84.40%",
-    "uptimeMonth": "76.04%",
-    "uptimeYear": "98.00%",
+    "status": "down",
+    "uptime": "99.15%",
+    "uptimeDay": "92.00%",
+    "uptimeWeek": "84.79%",
+    "uptimeMonth": "76.21%",
+    "uptimeYear": "98.02%",
     "time": 593,
     "timeDay": 525,
-    "timeWeek": 556,
-    "timeMonth": 535,
+    "timeWeek": 526,
+    "timeMonth": 534,
     "timeYear": 566,
     "dailyMinutesDown": {
-      "2026-05-27": 74,
       "2026-05-28": 122,
       "2026-05-29": 234,
       "2026-05-30": 129,
@@ -1015,7 +1013,7 @@
       "2026-06-23": 699,
       "2026-06-24": 77,
       "2026-06-25": 44,
-      "2026-06-26": 70
+      "2026-06-26": 71
     }
   },
   {
