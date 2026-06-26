@@ -972,15 +972,15 @@
     "url": "https://red.artemislena.eu/info",
     "icon": "https://icons.duckduckgo.com/ip3/red.artemislena.eu.ico",
     "slug": "redlib",
-    "status": "down",
+    "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "92.00%",
-    "uptimeWeek": "84.79%",
-    "uptimeMonth": "76.21%",
-    "uptimeYear": "98.02%",
+    "uptimeDay": "89.45%",
+    "uptimeWeek": "84.63%",
+    "uptimeMonth": "76.12%",
+    "uptimeYear": "98.01%",
     "time": 593,
-    "timeDay": 525,
-    "timeWeek": 526,
+    "timeDay": 529,
+    "timeWeek": 527,
     "timeMonth": 534,
     "timeYear": 566,
     "dailyMinutesDown": {
@@ -1013,7 +1013,7 @@
       "2026-06-23": 699,
       "2026-06-24": 77,
       "2026-06-25": 44,
-      "2026-06-26": 71
+      "2026-06-26": 108
     }
   },
   {
