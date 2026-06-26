@@ -4,12 +4,12 @@
     "url": "https://artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/artemislena.eu.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.55%",
+    "uptimeDay": "97.55%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "98.54%",
     "time": 859,
     "timeDay": 1398,
     "timeWeek": 750,
@@ -60,7 +60,8 @@
       "2026-03-17": 21,
       "2026-04-10": 26,
       "2026-04-24": 180,
-      "2026-05-11": 134
+      "2026-05-11": 134,
+      "2026-06-26": 35
     }
   },
   {
@@ -68,12 +69,12 @@
     "url": "https://gtrr.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/gtrr.artemislena.eu.ico",
     "slug": "gtrr",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.57%",
+    "status": "down",
+    "uptime": "98.96%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "98.56%",
     "time": 785,
     "timeDay": 682,
     "timeWeek": 640,
@@ -123,7 +124,8 @@
       "2026-03-17": 20,
       "2026-04-10": 26,
       "2026-04-24": 180,
-      "2026-05-11": 124
+      "2026-05-11": 124,
+      "2026-06-26": 30
     }
   },
   {
@@ -131,11 +133,11 @@
     "url": "borg.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "borg-backup",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "98.62%",
     "time": 170,
     "timeDay": 0,
@@ -184,7 +186,8 @@
       "2026-03-17": 19,
       "2026-04-10": 25,
       "2026-04-24": 179,
-      "2026-05-11": 116
+      "2026-05-11": 116,
+      "2026-06-26": 26
     }
   },
   {
@@ -192,11 +195,11 @@
     "url": "https://matrix.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.artemislena.eu.ico",
     "slug": "matrix-client",
-    "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "98.27%",
     "time": 1282,
     "timeDay": 1351,
@@ -260,7 +263,8 @@
       "2026-03-17": 19,
       "2026-04-10": 25,
       "2026-04-24": 178,
-      "2026-05-11": 113
+      "2026-05-11": 113,
+      "2026-06-26": 22
     }
   },
   {
@@ -268,12 +272,12 @@
     "url": "https://matrix.artemislena.eu:8448/_matrix/static",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.artemislena.eu.ico",
     "slug": "matrix-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.30%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "98.29%",
     "time": 710,
     "timeDay": 1167,
     "timeWeek": 1234,
@@ -333,7 +337,8 @@
       "2026-03-17": 19,
       "2026-04-10": 24,
       "2026-04-24": 178,
-      "2026-05-11": 108
+      "2026-05-11": 108,
+      "2026-06-26": 17
     }
   },
   {
@@ -341,11 +346,11 @@
     "url": "https://artemislena.eu/services/whoareyou.html",
     "icon": "https://icons.duckduckgo.com/ip3/artemislena.eu.ico",
     "slug": "whoareyou",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "98.99%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "98.63%",
     "time": 601,
     "timeDay": 506,
@@ -392,7 +397,8 @@
       "2026-03-15": 54,
       "2026-03-17": 18,
       "2026-04-24": 178,
-      "2026-05-11": 103
+      "2026-05-11": 103,
+      "2026-06-26": 12
     }
   },
   {
@@ -400,13 +406,13 @@
     "url": "https://send.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/send.artemislena.eu.ico",
     "slug": "send",
-    "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "99.18%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "98.55%",
-    "time": 697,
+    "time": 698,
     "timeDay": 523,
     "timeWeek": 579,
     "timeMonth": 564,
@@ -454,7 +460,8 @@
       "2026-03-15": 54,
       "2026-03-17": 18,
       "2026-04-24": 178,
-      "2026-05-11": 98
+      "2026-05-11": 98,
+      "2026-06-26": 7
     }
   },
   {
@@ -462,19 +469,19 @@
     "url": "https://imgur.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/imgur.artemislena.eu.ico",
     "slug": "rimgo",
-    "status": "up",
-    "uptime": "98.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "92.68%",
-    "time": 1234,
+    "status": "down",
+    "uptime": "98.21%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "92.70%",
+    "time": 1235,
     "timeDay": 490,
     "timeWeek": 743,
     "timeMonth": 591,
     "timeYear": 1332,
     "dailyMinutesDown": {
-      "2025-07-18": 284,
+      "2025-07-18": 177,
       "2025-07-19": 149,
       "2025-07-22": 140,
       "2025-08-21": 977,
@@ -559,7 +566,8 @@
       "2026-03-17": 18,
       "2026-04-15": 27,
       "2026-04-24": 177,
-      "2026-05-11": 94
+      "2026-05-11": 94,
+      "2026-06-26": 2
     }
   },
   {
@@ -968,12 +976,12 @@
     "status": "up",
     "uptime": "99.14%",
     "uptimeDay": "92.08%",
-    "uptimeWeek": "84.11%",
+    "uptimeWeek": "84.40%",
     "uptimeMonth": "76.04%",
     "uptimeYear": "98.00%",
     "time": 593,
     "timeDay": 525,
-    "timeWeek": 553,
+    "timeWeek": 556,
     "timeMonth": 535,
     "timeYear": 566,
     "dailyMinutesDown": {
