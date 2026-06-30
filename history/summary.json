@@ -205,7 +205,7 @@
     "timeDay": 1209,
     "timeWeek": 1294,
     "timeMonth": 1163,
-    "timeYear": 1231,
+    "timeYear": 1232,
     "dailyMinutesDown": {
       "2025-07-06": 345,
       "2025-07-07": 106,
@@ -282,7 +282,7 @@
     "timeDay": 1149,
     "timeWeek": 1182,
     "timeMonth": 1031,
-    "timeYear": 691,
+    "timeYear": 692,
     "dailyMinutesDown": {
       "2025-07-06": 345,
       "2025-07-07": 106,
@@ -356,7 +356,7 @@
     "timeDay": 510,
     "timeWeek": 470,
     "timeMonth": 421,
-    "timeYear": 443,
+    "timeYear": 442,
     "dailyMinutesDown": {
       "2025-07-06": 345,
       "2025-07-07": 106,
@@ -416,7 +416,7 @@
     "timeDay": 752,
     "timeWeek": 608,
     "timeMonth": 562,
-    "timeYear": 632,
+    "timeYear": 628,
     "dailyMinutesDown": {
       "2025-07-06": 344,
       "2025-07-07": 105,
@@ -479,7 +479,7 @@
     "timeDay": 580,
     "timeWeek": 592,
     "timeMonth": 594,
-    "timeYear": 1331,
+    "timeYear": 1333,
     "dailyMinutesDown": {
       "2025-07-18": 284,
       "2025-07-19": 149,
@@ -584,7 +584,7 @@
     "timeDay": 1249,
     "timeWeek": 716,
     "timeMonth": 583,
-    "timeYear": 621,
+    "timeYear": 622,
     "dailyMinutesDown": {
       "2025-07-06": 344,
       "2025-07-07": 105,
@@ -650,7 +650,7 @@
     "timeDay": 661,
     "timeWeek": 584,
     "timeMonth": 527,
-    "timeYear": 586,
+    "timeYear": 587,
     "dailyMinutesDown": {
       "2025-07-06": 343,
       "2025-07-07": 104,
@@ -718,7 +718,7 @@
     "timeDay": 1045,
     "timeWeek": 1152,
     "timeMonth": 1017,
-    "timeYear": 1267,
+    "timeYear": 1268,
     "dailyMinutesDown": {
       "2025-11-16": 135,
       "2025-11-17": 45,
@@ -908,7 +908,7 @@
     "timeDay": 535,
     "timeWeek": 641,
     "timeMonth": 542,
-    "timeYear": 598,
+    "timeYear": 599,
     "dailyMinutesDown": {
       "2025-07-06": 334,
       "2025-07-07": 102,
@@ -972,19 +972,19 @@
     "url": "https://red.artemislena.eu/info",
     "icon": "https://icons.duckduckgo.com/ip3/red.artemislena.eu.ico",
     "slug": "redlib",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "49.19%",
-    "uptimeWeek": "77.41%",
-    "uptimeMonth": "78.65%",
-    "uptimeYear": "98.22%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "61.10%",
+    "uptimeWeek": "78.44%",
+    "uptimeMonth": "78.98%",
+    "uptimeYear": "98.25%",
     "time": 584,
-    "timeDay": 473,
-    "timeWeek": 522,
-    "timeMonth": 527,
+    "timeDay": 460,
+    "timeWeek": 516,
+    "timeMonth": 525,
     "timeYear": 564,
     "dailyMinutesDown": {
-      "2026-06-04": 673,
+      "2026-06-04": 530,
       "2026-06-05": 818,
       "2026-06-06": 674,
       "2026-06-07": 691,
@@ -1010,7 +1010,7 @@
       "2026-06-27": 453,
       "2026-06-28": 512,
       "2026-06-29": 371,
-      "2026-06-30": 512
+      "2026-06-30": 513
     }
   },
   {
@@ -1028,7 +1028,7 @@
     "timeDay": 730,
     "timeWeek": 671,
     "timeMonth": 571,
-    "timeYear": 617,
+    "timeYear": 618,
     "dailyMinutesDown": {
       "2025-12-22": 16,
       "2026-01-19": 30,
@@ -1050,7 +1050,7 @@
     "timeDay": 912,
     "timeWeek": 735,
     "timeMonth": 654,
-    "timeYear": 630,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2025-07-06": 341,
       "2025-07-07": 102,
