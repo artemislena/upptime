@@ -13,7 +13,7 @@
     "time": 859,
     "timeDay": 748,
     "timeWeek": 744,
-    "timeMonth": 618,
+    "timeMonth": 620,
     "timeYear": 769,
     "dailyMinutesDown": {
       "2025-07-06": 347,
@@ -78,7 +78,7 @@
     "time": 779,
     "timeDay": 664,
     "timeWeek": 601,
-    "timeMonth": 600,
+    "timeMonth": 597,
     "timeYear": 746,
     "dailyMinutesDown": {
       "2025-07-06": 346,
@@ -204,7 +204,7 @@
     "time": 1282,
     "timeDay": 1135,
     "timeWeek": 1266,
-    "timeMonth": 1158,
+    "timeMonth": 1151,
     "timeYear": 1232,
     "dailyMinutesDown": {
       "2025-07-06": 345,
@@ -281,7 +281,7 @@
     "time": 714,
     "timeDay": 1154,
     "timeWeek": 1189,
-    "timeMonth": 1007,
+    "timeMonth": 1004,
     "timeYear": 693,
     "dailyMinutesDown": {
       "2025-07-06": 345,
@@ -355,7 +355,7 @@
     "time": 596,
     "timeDay": 494,
     "timeWeek": 476,
-    "timeMonth": 424,
+    "timeMonth": 423,
     "timeYear": 443,
     "dailyMinutesDown": {
       "2025-07-06": 345,
@@ -415,7 +415,7 @@
     "time": 691,
     "timeDay": 758,
     "timeWeek": 632,
-    "timeMonth": 567,
+    "timeMonth": 564,
     "timeYear": 628,
     "dailyMinutesDown": {
       "2025-07-06": 344,
@@ -478,7 +478,7 @@
     "time": 1234,
     "timeDay": 557,
     "timeWeek": 595,
-    "timeMonth": 594,
+    "timeMonth": 598,
     "timeYear": 1331,
     "dailyMinutesDown": {
       "2025-07-18": 284,
@@ -649,7 +649,7 @@
     "time": 603,
     "timeDay": 542,
     "timeWeek": 589,
-    "timeMonth": 524,
+    "timeMonth": 523,
     "timeYear": 586,
     "dailyMinutesDown": {
       "2025-07-06": 343,
@@ -717,7 +717,7 @@
     "time": 1331,
     "timeDay": 1208,
     "timeWeek": 1180,
-    "timeMonth": 1027,
+    "timeMonth": 1028,
     "timeYear": 1268,
     "dailyMinutesDown": {
       "2025-11-16": 135,
@@ -887,7 +887,7 @@
     "time": 119,
     "timeDay": 153,
     "timeWeek": 144,
-    "timeMonth": 128,
+    "timeMonth": 127,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2026-02-19": 63
@@ -973,18 +973,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/red.artemislena.eu.ico",
     "slug": "redlib",
     "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "61.17%",
-    "uptimeWeek": "78.31%",
-    "uptimeMonth": "78.95%",
-    "uptimeYear": "98.25%",
+    "uptime": "99.24%",
+    "uptimeDay": "65.73%",
+    "uptimeWeek": "78.45%",
+    "uptimeMonth": "78.65%",
+    "uptimeYear": "98.22%",
     "time": 585,
     "timeDay": 487,
     "timeWeek": 519,
     "timeMonth": 526,
     "timeYear": 565,
     "dailyMinutesDown": {
-      "2026-06-04": 530,
+      "2026-06-04": 673,
       "2026-06-05": 818,
       "2026-06-06": 674,
       "2026-06-07": 691,
@@ -1010,7 +1010,7 @@
       "2026-06-27": 453,
       "2026-06-28": 512,
       "2026-06-29": 371,
-      "2026-06-30": 527
+      "2026-06-30": 512
     }
   },
   {
@@ -1027,7 +1027,7 @@
     "time": 612,
     "timeDay": 657,
     "timeWeek": 677,
-    "timeMonth": 571,
+    "timeMonth": 570,
     "timeYear": 618,
     "dailyMinutesDown": {
       "2025-12-22": 16,
@@ -1049,7 +1049,7 @@
     "time": 715,
     "timeDay": 704,
     "timeWeek": 744,
-    "timeMonth": 657,
+    "timeMonth": 655,
     "timeYear": 631,
     "dailyMinutesDown": {
       "2025-07-06": 341,
@@ -1113,7 +1113,7 @@
     "time": 161,
     "timeDay": 166,
     "timeWeek": 195,
-    "timeMonth": 155,
+    "timeMonth": 154,
     "timeYear": 152,
     "dailyMinutesDown": {
       "2025-07-06": 324,
@@ -1168,7 +1168,7 @@
     "time": 524,
     "timeDay": 543,
     "timeWeek": 538,
-    "timeMonth": 496,
+    "timeMonth": 495,
     "timeYear": 524,
     "dailyMinutesDown": {
       "2025-10-03": 160,
