@@ -983,9 +983,9 @@
     "slug": "redlib",
     "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "87.06%",
-    "uptimeWeek": "93.08%",
-    "uptimeMonth": "76.67%",
+    "uptimeDay": "86.23%",
+    "uptimeWeek": "92.97%",
+    "uptimeMonth": "76.64%",
     "uptimeYear": "97.40%",
     "time": 583,
     "timeDay": 506,
@@ -1033,7 +1033,7 @@
       "2026-07-22": 294,
       "2026-07-23": 153,
       "2026-07-25": 185,
-      "2026-07-26": 1
+      "2026-07-26": 13
     }
   },
   {
