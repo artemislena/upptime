@@ -563,7 +563,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pad.artemislena.eu.ico",
     "slug": "crypt-pad",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -690,10 +690,10 @@
     "url": "https://mail.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/mail.artemislena.eu.ico",
     "slug": "mailcow-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "96.27%",
     "time": 1328,
@@ -702,7 +702,6 @@
     "timeMonth": 937,
     "timeYear": 1193,
     "dailyMinutesDown": {
-      "2025-11-16": 21,
       "2025-11-17": 45,
       "2025-11-18": 625,
       "2025-11-23": 28,
@@ -773,7 +772,8 @@
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 601,
-      "2026-08-02": 61
+      "2026-08-02": 61,
+      "2026-08-24": 1
     }
   },
   {
@@ -781,19 +781,19 @@
     "url": "mail.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailcow-smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.43%",
+    "uptimeYear": "96.44%",
     "time": 163,
     "timeDay": 131,
     "timeWeek": 152,
     "timeMonth": 147,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2025-11-16": 172,
+      "2025-11-16": 131,
       "2025-11-17": 45,
       "2025-11-18": 624,
       "2025-11-23": 27,
@@ -862,7 +862,8 @@
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
-      "2026-07-03": 597
+      "2026-07-03": 597,
+      "2026-08-24": 1
     }
   },
   {
@@ -965,7 +966,7 @@
     "slug": "redlib",
     "status": "up",
     "uptime": "98.95%",
-    "uptimeDay": "97.86%",
+    "uptimeDay": "99.61%",
     "uptimeWeek": "98.84%",
     "uptimeMonth": "98.09%",
     "uptimeYear": "97.39%",
@@ -1110,7 +1111,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "syncplay",
     "status": "up",
-    "uptime": "98.34%",
+    "uptime": "98.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
