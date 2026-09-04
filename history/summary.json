@@ -14,7 +14,7 @@
     "timeDay": 692,
     "timeWeek": 765,
     "timeMonth": 662,
-    "timeYear": 728,
+    "timeYear": 729,
     "dailyMinutesDown": {
       "2025-09-05": 28,
       "2025-09-06": 24,
@@ -196,7 +196,7 @@
     "timeDay": 1331,
     "timeWeek": 1161,
     "timeMonth": 1153,
-    "timeYear": 1203,
+    "timeYear": 1202,
     "dailyMinutesDown": {
       "2025-09-24": 376,
       "2025-10-03": 170,
@@ -460,7 +460,7 @@
     "timeDay": 540,
     "timeWeek": 585,
     "timeMonth": 526,
-    "timeYear": 1311,
+    "timeYear": 1313,
     "dailyMinutesDown": {
       "2025-09-11": 1403,
       "2025-09-10": 1440,
@@ -689,7 +689,7 @@
     "timeDay": 1122,
     "timeWeek": 1015,
     "timeMonth": 1011,
-    "timeYear": 1198,
+    "timeYear": 1200,
     "dailyMinutesDown": {
       "2025-11-17": 45,
       "2025-11-18": 625,
@@ -890,7 +890,7 @@
     "timeDay": 649,
     "timeWeek": 577,
     "timeMonth": 548,
-    "timeYear": 558,
+    "timeYear": 557,
     "dailyMinutesDown": {
       "2025-09-22": 215,
       "2025-09-24": 367,
@@ -952,16 +952,16 @@
     "url": "https://red.artemislena.eu/info",
     "icon": "https://icons.duckduckgo.com/ip3/red.artemislena.eu.ico",
     "slug": "redlib",
-    "status": "down",
+    "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "96.26%",
-    "uptimeWeek": "94.51%",
-    "uptimeMonth": "98.37%",
-    "uptimeYear": "97.33%",
-    "time": 573,
-    "timeDay": 570,
-    "timeWeek": 585,
-    "timeMonth": 581,
+    "uptimeDay": "93.03%",
+    "uptimeWeek": "93.53%",
+    "uptimeMonth": "98.15%",
+    "uptimeYear": "97.31%",
+    "time": 570,
+    "timeDay": 624,
+    "timeWeek": 592,
+    "timeMonth": 583,
     "timeYear": 555,
     "dailyMinutesDown": {
       "2026-06-14": 142,
@@ -1008,7 +1008,7 @@
       "2026-08-23": 31,
       "2026-09-01": 127,
       "2026-09-03": 424,
-      "2026-09-04": 1
+      "2026-09-04": 100
     }
   },
   {
@@ -1026,7 +1026,7 @@
     "timeDay": 845,
     "timeWeek": 801,
     "timeMonth": 724,
-    "timeYear": 633,
+    "timeYear": 632,
     "dailyMinutesDown": {
       "2025-12-22": 16,
       "2026-01-19": 30,
