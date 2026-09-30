@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.00%",
-    "time": 810,
+    "time": 725,
     "timeDay": 822,
     "timeWeek": 628,
     "timeMonth": 577,
-    "timeYear": 684,
+    "timeYear": 683,
     "dailyMinutesDown": {
       "2025-10-03": 172,
       "2025-10-23": 73,
@@ -449,7 +449,7 @@
     "timeDay": 529,
     "timeWeek": 521,
     "timeMonth": 513,
-    "timeYear": 1239,
+    "timeYear": 1241,
     "dailyMinutesDown": {
       "2025-10-03": 164,
       "2025-10-23": 1101,
@@ -921,16 +921,16 @@
     "url": "https://red.artemislena.eu/info",
     "icon": "https://icons.duckduckgo.com/ip3/red.artemislena.eu.ico",
     "slug": "redlib",
-    "status": "down",
-    "uptime": "98.88%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "94.05%",
-    "uptimeYear": "97.08%",
+    "status": "up",
+    "uptime": "98.86%",
+    "uptimeDay": "86.41%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "93.61%",
+    "uptimeYear": "97.04%",
     "time": 558,
-    "timeDay": 524,
-    "timeWeek": 597,
-    "timeMonth": 572,
+    "timeDay": 486,
+    "timeWeek": 576,
+    "timeMonth": 569,
     "timeYear": 557,
     "dailyMinutesDown": {
       "2026-06-18": 189,
@@ -978,7 +978,8 @@
       "2026-09-06": 429,
       "2026-09-07": 440,
       "2026-09-11": 762,
-      "2026-09-29": 1
+      "2026-09-30": 35,
+      "2026-09-29": 161
     }
   },
   {
@@ -996,7 +997,7 @@
     "timeDay": 882,
     "timeWeek": 779,
     "timeMonth": 740,
-    "timeYear": 640,
+    "timeYear": 641,
     "dailyMinutesDown": {
       "2025-12-22": 16,
       "2026-01-19": 30,
@@ -1018,7 +1019,7 @@
     "timeDay": 704,
     "timeWeek": 697,
     "timeMonth": 631,
-    "timeYear": 613,
+    "timeYear": 614,
     "dailyMinutesDown": {
       "2025-10-03": 162,
       "2025-10-08": 483,
@@ -1130,7 +1131,7 @@
     "timeDay": 693,
     "timeWeek": 518,
     "timeMonth": 484,
-    "timeYear": 515,
+    "timeYear": 516,
     "dailyMinutesDown": {
       "2025-10-03": 160,
       "2025-10-23": 56,
