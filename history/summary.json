@@ -12,7 +12,7 @@
     "uptimeYear": "98.04%",
     "time": 720,
     "timeDay": 540,
-    "timeWeek": 706,
+    "timeWeek": 681,
     "timeMonth": 699,
     "timeYear": 685,
     "dailyMinutesDown": {
@@ -70,7 +70,7 @@
     "uptimeYear": "98.05%",
     "time": 689,
     "timeDay": 740,
-    "timeWeek": 719,
+    "timeWeek": 707,
     "timeMonth": 574,
     "timeYear": 677,
     "dailyMinutesDown": {
@@ -127,7 +127,7 @@
     "uptimeYear": "98.08%",
     "time": 146,
     "timeDay": 159,
-    "timeWeek": 157,
+    "timeWeek": 156,
     "timeMonth": 141,
     "timeYear": 142,
     "dailyMinutesDown": {
@@ -179,12 +179,12 @@
     "status": "up",
     "uptime": "99.12%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "75.21%",
+    "uptimeWeek": "80.53%",
     "uptimeMonth": "94.30%",
     "uptimeYear": "97.26%",
     "time": 1209,
     "timeDay": 1253,
-    "timeWeek": 1211,
+    "timeWeek": 1304,
     "timeMonth": 1373,
     "timeYear": 1178,
     "dailyMinutesDown": {
@@ -255,12 +255,12 @@
     "status": "up",
     "uptime": "98.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "75.21%",
+    "uptimeWeek": "80.53%",
     "uptimeMonth": "94.30%",
     "uptimeYear": "97.30%",
     "time": 739,
     "timeDay": 1103,
-    "timeWeek": 926,
+    "timeWeek": 984,
     "timeMonth": 955,
     "timeYear": 697,
     "dailyMinutesDown": {
@@ -331,7 +331,7 @@
     "uptimeYear": "98.11%",
     "time": 431,
     "timeDay": 473,
-    "timeWeek": 459,
+    "timeWeek": 458,
     "timeMonth": 412,
     "timeYear": 415,
     "dailyMinutesDown": {
@@ -386,7 +386,7 @@
     "uptimeYear": "98.03%",
     "time": 619,
     "timeDay": 569,
-    "timeWeek": 631,
+    "timeWeek": 645,
     "timeMonth": 676,
     "timeYear": 611,
     "dailyMinutesDown": {
@@ -444,7 +444,7 @@
     "uptimeYear": "95.63%",
     "time": 1211,
     "timeDay": 969,
-    "timeWeek": 586,
+    "timeWeek": 596,
     "timeMonth": 526,
     "timeYear": 1231,
     "dailyMinutesDown": {
@@ -532,7 +532,7 @@
     "uptimeYear": "97.88%",
     "time": 620,
     "timeDay": 687,
-    "timeWeek": 616,
+    "timeWeek": 593,
     "timeMonth": 540,
     "timeYear": 584,
     "dailyMinutesDown": {
@@ -592,7 +592,7 @@
     "uptimeYear": "98.10%",
     "time": 572,
     "timeDay": 701,
-    "timeWeek": 619,
+    "timeWeek": 613,
     "timeMonth": 527,
     "timeYear": 552,
     "dailyMinutesDown": {
@@ -652,7 +652,7 @@
     "uptimeYear": "96.26%",
     "time": 1176,
     "timeDay": 1054,
-    "timeWeek": 1078,
+    "timeWeek": 1057,
     "timeMonth": 992,
     "timeYear": 1194,
     "dailyMinutesDown": {
@@ -744,7 +744,7 @@
     "uptimeYear": "96.42%",
     "time": 154,
     "timeDay": 181,
-    "timeWeek": 167,
+    "timeWeek": 165,
     "timeMonth": 161,
     "timeYear": 154,
     "dailyMinutesDown": {
@@ -836,7 +836,7 @@
     "uptimeYear": "99.99%",
     "time": 121,
     "timeDay": 155,
-    "timeWeek": 145,
+    "timeWeek": 144,
     "timeMonth": 128,
     "timeYear": 121,
     "dailyMinutesDown": {
@@ -856,7 +856,7 @@
     "uptimeYear": "97.62%",
     "time": 602,
     "timeDay": 528,
-    "timeWeek": 615,
+    "timeWeek": 580,
     "timeMonth": 549,
     "timeYear": 552,
     "dailyMinutesDown": {
@@ -917,19 +917,19 @@
     "url": "https://red.artemislena.eu/info",
     "icon": "https://icons.duckduckgo.com/ip3/red.artemislena.eu.ico",
     "slug": "redlib",
-    "status": "up",
-    "uptime": "98.77%",
-    "uptimeDay": "69.46%",
-    "uptimeWeek": "82.87%",
-    "uptimeMonth": "94.76%",
-    "uptimeYear": "96.75%",
+    "status": "down",
+    "uptime": "98.78%",
+    "uptimeDay": "93.95%",
+    "uptimeWeek": "82.86%",
+    "uptimeMonth": "94.75%",
+    "uptimeYear": "96.76%",
     "time": 555,
-    "timeDay": 556,
-    "timeWeek": 529,
-    "timeMonth": 552,
-    "timeYear": 558,
+    "timeDay": 533,
+    "timeWeek": 511,
+    "timeMonth": 547,
+    "timeYear": 557,
     "dailyMinutesDown": {
-      "2026-06-21": 158,
+      "2026-06-21": 57,
       "2026-06-22": 355,
       "2026-06-23": 699,
       "2026-06-24": 77,
@@ -979,7 +979,8 @@
       "2026-10-15": 237,
       "2026-10-17": 258,
       "2026-10-18": 422,
-      "2026-10-19": 477
+      "2026-10-19": 477,
+      "2026-10-20": 1
     }
   },
   {
@@ -995,7 +996,7 @@
     "uptimeYear": "99.97%",
     "time": 635,
     "timeDay": 831,
-    "timeWeek": 805,
+    "timeWeek": 790,
     "timeMonth": 723,
     "timeYear": 646,
     "dailyMinutesDown": {
@@ -1126,7 +1127,7 @@
     "uptimeYear": "98.13%",
     "time": 514,
     "timeDay": 522,
-    "timeWeek": 510,
+    "timeWeek": 509,
     "timeMonth": 484,
     "timeYear": 514,
     "dailyMinutesDown": {
