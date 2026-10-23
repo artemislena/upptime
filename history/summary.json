@@ -441,7 +441,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.35%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "95.66%",
+    "uptimeYear": "95.75%",
     "time": 1211,
     "timeDay": 422,
     "timeWeek": 530,
@@ -523,15 +523,15 @@
     "url": "https://pad.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/pad.artemislena.eu.ico",
     "slug": "crypt-pad",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "98.39%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "97.85%",
-    "time": 620,
-    "timeDay": 530,
-    "timeWeek": 556,
+    "time": 617,
+    "timeDay": 522,
+    "timeWeek": 551,
     "timeMonth": 532,
     "timeYear": 584,
     "dailyMinutesDown": {
@@ -574,7 +574,8 @@
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 611,
-      "2026-10-20": 162
+      "2026-10-20": 162,
+      "2026-10-23": 1
     }
   },
   {
