@@ -696,10 +696,10 @@
     "slug": "mailcow-smtp",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "96.45%",
+    "uptimeYear": "96.46%",
     "time": 154,
     "timeDay": 155,
     "timeWeek": 145,
@@ -776,8 +776,7 @@
       "2026-08-24": 28,
       "2026-10-18": 6,
       "2026-10-17": 100,
-      "2026-10-20": 148,
-      "2026-11-18": 2
+      "2026-10-20": 148
     }
   },
   {
@@ -872,12 +871,12 @@
     "uptime": "98.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.54%",
+    "uptimeMonth": "95.60%",
     "uptimeYear": "96.60%",
     "time": 558,
     "timeDay": 551,
     "timeWeek": 614,
-    "timeMonth": 566,
+    "timeMonth": 568,
     "timeYear": 556,
     "dailyMinutesDown": {
       "2026-06-23": 694,
