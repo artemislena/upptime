@@ -591,19 +591,19 @@
     "url": "https://mail.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/mail.artemislena.eu.ico",
     "slug": "mailcow-web",
-    "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "80.46%",
-    "uptimeMonth": "94.41%",
+    "status": "down",
+    "uptime": "99.07%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "82.70%",
+    "uptimeMonth": "94.39%",
     "uptimeYear": "95.89%",
-    "time": 1165,
+    "time": 1166,
     "timeDay": 674,
     "timeWeek": 791,
     "timeMonth": 901,
     "timeYear": 1180,
     "dailyMinutesDown": {
-      "2025-12-06": 161,
+      "2025-12-06": 140,
       "2025-12-08": 31,
       "2025-12-09": 298,
       "2025-12-10": 36,
@@ -677,7 +677,8 @@
       "2026-11-16": 1431,
       "2026-11-15": 219,
       "2026-11-19": 613,
-      "2026-11-18": 184
+      "2026-11-18": 184,
+      "2026-11-23": 10
     }
   },
   {
@@ -686,11 +687,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailcow-smtp",
     "status": "down",
-    "uptime": "99.18%",
-    "uptimeDay": "96.37%",
-    "uptimeWeek": "93.38%",
-    "uptimeMonth": "98.48%",
-    "uptimeYear": "96.41%",
+    "uptime": "99.17%",
+    "uptimeDay": "80.07%",
+    "uptimeWeek": "91.05%",
+    "uptimeMonth": "97.94%",
+    "uptimeYear": "96.36%",
     "time": 155,
     "timeDay": 0,
     "timeWeek": 147,
@@ -769,7 +770,7 @@
       "2026-10-20": 148,
       "2026-11-20": 349,
       "2026-11-21": 266,
-      "2026-11-23": 52
+      "2026-11-23": 287
     }
   },
   {
@@ -930,11 +931,11 @@
     "url": "https://jitsi.artemislena.eu",
     "icon": "https://icons.duckduckgo.com/ip3/jitsi.artemislena.eu.ico",
     "slug": "jitsi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "80.51%",
-    "uptimeMonth": "94.44%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "82.83%",
+    "uptimeMonth": "94.43%",
     "uptimeYear": "99.49%",
     "time": 640,
     "timeDay": 442,
@@ -949,7 +950,8 @@
       "2026-11-16": 1431,
       "2026-11-15": 214,
       "2026-11-19": 613,
-      "2026-11-18": 179
+      "2026-11-18": 179,
+      "2026-11-23": 1
     }
   },
   {
